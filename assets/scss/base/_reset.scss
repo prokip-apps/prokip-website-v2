@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+*,
+*::after,
+*::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: "Inter", sans-serif;
+	background: $white;
+	color: $black;
+	font-weight: 300;
+	line-height: 1.6;
+	font-size: 1.6rem;
+	overflow-x: hidden;
+	scroll-behavior: smooth;
+}
+
+body,
+html {
+	overflow-x: hidden;
+}
+
+button {
+	font-family: inherit;
+	border: none;
+}
+
+a {
+	text-decoration: none;
+}

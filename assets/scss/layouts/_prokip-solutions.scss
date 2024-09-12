@@ -1,0 +1,172 @@
+.prokip-solutions {
+	&__inner {
+		width: 1280px;
+		max-width: 100%;
+		margin: 0 auto;
+		padding: 7.2rem 0;
+
+		@media (max-width: $tablet) {
+			padding: 3.2rem 0;
+		}
+
+		&__title {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			margin-bottom: 4.8rem;
+
+			@media (max-width: $tablet) {
+				display: block;
+				width: 90%;
+				margin: 0 auto;
+			}
+
+			h2 {
+				font-size: 3.6rem;
+				font-weight: 500;
+				letter-spacing: -0.25px;
+				line-height: 44px;
+				letter-spacing: -1.5px;
+				color: $black;
+				width: 588px;
+				max-width: 100%;
+
+				@media (max-width: $tablet) {
+					font-size: 3.2rem;
+					line-height: 38.4px;
+				}
+			}
+		}
+
+		&__nav {
+			display: flex;
+			gap: 1.2rem;
+
+			@media (max-width: $tablet) {
+				margin-top: 2.4rem;
+			}
+
+			&__prev,
+			&__next {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				width: 7.2rem;
+				height: 7.2rem;
+				border-radius: 50%;
+				background: $black;
+				color: $white;
+				cursor: pointer;
+
+				@media (max-width: $tablet) {
+					width: 3.6rem;
+					height: 3.6rem;
+				}
+
+				&__icon {
+					font-size: 2em;
+					color: #fff;
+
+					@media (max-width: $tablet) {
+						font-size: 1em;
+					}
+				}
+
+				&:disabled {
+					cursor: not-allowed;
+					background: #fff;
+					border: 1px solid $black;
+				}
+			}
+		}
+
+		&__slider {
+			@media (max-width: $tablet) {
+				margin-top: 4.8rem;
+			}
+			&__item {
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				background: #f2f5f7;
+				border-radius: 3.2rem;
+				padding: 20px 20px 20px 72px;
+				height: 568px;
+				gap: 9.6rem;
+
+				@media (max-width: $tablet) {
+					flex-direction: column;
+					gap: 2.4rem;
+					padding: 2.4rem;
+				}
+
+				&.dark {
+					background: $black;
+
+					.prokip-solutions__inner__slider__item__content {
+						h2 {
+							color: $white;
+						}
+
+						p {
+							color: #fff;
+						}
+					}
+				}
+
+				&__content {
+					flex-basis: 580px;
+
+					@media (max-width: $tablet) {
+						flex-basis: 100%;
+						order: 2;
+					}
+
+					h2 {
+						font-size: 5.8rem;
+						font-weight: 500;
+						letter-spacing: -2px;
+						line-height: 64px;
+						color: $black;
+						padding-bottom: 2.4rem;
+
+						@media (max-width: $tablet) {
+							font-size: 4rem;
+							line-height: 48px;
+						}
+					}
+
+					p {
+						color: #454745;
+						font-size: 1.8rem;
+						letter-spacing: -0.25px;
+						line-height: 2.8rem;
+						font-weight: 300;
+						padding-bottom: 4rem;
+					}
+				}
+
+				&__image {
+					width: 512px;
+					height: 528px;
+					border-radius: 1.6rem;
+					overflow: hidden;
+					flex-basis: 512px;
+
+					@media (max-width: $tablet) {
+						flex-basis: 100%;
+						order: 1;
+						height: 300px;
+						width: 100%;
+					}
+
+					img {
+						width: 100%;
+						height: 100%;
+						object-fit: cover;
+					}
+				}
+			}
+		}
+	}
+}

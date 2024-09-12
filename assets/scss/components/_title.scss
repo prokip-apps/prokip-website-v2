@@ -1,0 +1,28 @@
+.section__title {
+	position: relative;
+	width: -moz-fit-content;
+	width: fit-content;
+	// margin: 0 auto;
+	margin-bottom: 2.4rem;
+
+	.text {
+		color: #011635;
+		font-size: 1.8rem;
+		letter-spacing: -0.25px;
+		line-height: 2.8rem;
+		display: block;
+		font-weight: 500;
+		position: relative;
+		z-index: 1;
+	}
+
+	.underline {
+		position: absolute;
+		bottom: 6px;
+		left: 0;
+		width: 100%;
+		height: 4px;
+		background-color: #fbbf24;
+		z-index: 0;
+	}
+}

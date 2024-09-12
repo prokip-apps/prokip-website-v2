@@ -1,0 +1,151 @@
+.header {
+	width: 1440px;
+	max-width: 100%;
+	height: 8rem;
+	padding: 0;
+	background: $black;
+
+	@media (max-width: $tablet) {
+		width: 100%;
+		// padding: 0 3.2rem;
+	}
+
+	&__nav {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		padding: 0 4rem;
+		width: 1280px;
+		max-width: 100%;
+		height: 100%;
+		margin: 0 auto;
+
+		@media (max-width: $tablet) {
+			padding: 0;
+		}
+
+		a {
+			display: flex;
+			align-items: center;
+		}
+
+		.logo {
+			width: 129px;
+		}
+
+		&__link {
+			display: flex;
+			align-items: center;
+			gap: 3.2rem;
+
+			@media (max-width: $tablet) {
+				display: none;
+			}
+
+			&--item {
+				color: $white;
+				font-size: 1.5rem;
+				letter-spacing: -0.25px;
+				font-weight: 400;
+				display: flex;
+				align-items: center;
+				gap: 0.6rem;
+				cursor: pointer;
+
+				@media (max-width: $tablet) {
+					margin-top: 2.4rem;
+					padding-bottom: 2.4rem;
+					border-bottom: 1px solid #ffffff68;
+					display: flex;
+					align-items: center;
+					justify-content: space-between;
+				}
+
+				.chevron-down {
+					color: #fff;
+					font-size: 1.6rem;
+					position: relative;
+					top: 0.2rem;
+				}
+
+				img {
+					@media (max-width: $tablet) {
+						filter: invert(100%) sepia(0%) saturate(1247%) hue-rotate(106deg)
+							brightness(115%) contrast(100%);
+					}
+				}
+			}
+		}
+	}
+
+	&__nav__left {
+		display: flex;
+		align-items: center;
+		gap: 6.4rem;
+
+		@media (max-width: $tablet) {
+			padding-left: 3.2rem;
+		}
+	}
+
+	&__nav__right {
+		display: flex;
+		align-items: center;
+		gap: 1.2rem;
+	}
+}
+
+.plain-header {
+	background: #fff;
+	border-bottom: 1px solid #e5ebe5;
+
+	.header__nav__link--item,
+	.chevron-down,
+	.country-selector .gap span {
+		color: #000;
+	}
+
+	.country-selector {
+		border-color: #000;
+	}
+}
+
+.careers-header {
+	background: #241800;
+
+	// .header__nav__link--item,
+	// .chevron-down,
+	// .country-selector .gap span {
+	// 	color: #000;
+	// }
+
+	// .country-selector {
+	// 	border-color: #000;
+	// }
+}
+
+.mobile-menu-btn {
+	display: none;
+	background: transparent;
+	cursor: pointer;
+
+	@media (max-width: $tablet) {
+		display: block;
+		padding-right: 3.2rem;
+	}
+}
+
+.menu-icon {
+	display: block;
+	color: #fff;
+	width: 24px;
+	height: 24px;
+}
+
+.plain-header {
+	.mobile-menu-btn {
+		.menu-icon {
+			color: $black;
+		}
+	}
+}

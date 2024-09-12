@@ -1,0 +1,141 @@
+.hide-pc {
+	display: none;
+}
+
+.hide-mobile {
+	display: block;
+	@media (max-width: $tablet) {
+		display: none !important;
+	}
+}
+
+.grid-2-space-16 {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 1.6rem;
+
+	@media (max-width: $tablet) {
+		grid-template-columns: repeat(1, minmax(0, 1fr));
+	}
+}
+
+.grid-2-space-24 {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 2.4rem;
+
+	@media (max-width: $tablet) {
+		grid-template-columns: repeat(1, minmax(0, 1fr));
+	}
+}
+
+.grid-2-space-32 {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 3.2rem;
+
+	@media (max-width: $tablet) {
+		grid-template-columns: repeat(1, minmax(0, 1fr));
+	}
+}
+
+.grid-2-space-96 {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 9.6rem;
+
+	@media (max-width: $tablet) {
+		grid-template-columns: repeat(1, minmax(0, 1fr));
+	}
+}
+
+.grid-3-space-24 {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 2.4rem;
+
+	@media (max-width: $tablet) {
+		grid-template-columns: repeat(1, minmax(0, 1fr));
+	}
+}
+
+.grid-3-space-28 {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 2.8rem;
+
+	@media (max-width: $tablet) {
+		grid-template-columns: repeat(1, minmax(0, 1fr));
+	}
+}
+
+.grid-3-space-32 {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 3.2rem;
+
+	@media (max-width: $tablet) {
+		grid-template-columns: repeat(1, minmax(0, 1fr));
+	}
+}
+
+.grid-3-space-40 {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 4rem;
+
+	@media (max-width: $tablet) {
+		grid-template-columns: repeat(1, minmax(0, 1fr));
+	}
+}
+
+.order-1 {
+	order: 1;
+
+	@media (max-width: $tablet) {
+		order: 2;
+	}
+}
+
+.order-2 {
+	order: 2;
+
+	@media (max-width: $tablet) {
+		order: 1;
+	}
+}
+
+.order-3 {
+	order: 3;
+}
+
+.mobile-order-1 {
+	@media (max-width: $tablet) {
+		order: 1;
+	}
+}
+
+.mobile-order-2 {
+	@media (max-width: $tablet) {
+		order: 2;
+	}
+}
+
+.mobile-order-3 {
+	@media (max-width: $tablet) {
+		order: 3;
+	}
+}
+
+.flex-wrapper {
+	display: flex;
+	gap: 96px;
+
+	@media (max-width: $tablet) {
+		flex-direction: column;
+	}
+
+	.item {
+		flex: 1;
+	}
+}

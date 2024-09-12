@@ -1,0 +1,89 @@
+.dropdown__box {
+	position: absolute;
+	top: 40px;
+	width: 138px;
+	background: #fff;
+	border-radius: 1.6rem;
+	padding: 2rem;
+	// right: -140px;
+	left: 0px;
+	border: 1px solid #e6e6e6;
+	z-index: 11111;
+
+	@media (max-width: $tablet) {
+		position: static;
+		// left: 0;
+		background: none;
+		border: none;
+		padding: 0;
+		padding-top: 1.6rem;
+	}
+}
+
+.dropdown__box__item {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 1.4rem;
+
+	// height: 4rem;
+
+	a {
+		display: flex;
+	}
+}
+
+.dropdown-menu-link {
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 1.5rem;
+	padding: 0.2rem 0.3rem;
+	border-radius: 0.5rem;
+
+	img {
+		width: 35px;
+		height: 35px;
+	}
+
+	.content {
+		h4 {
+			color: $black;
+			font-size: 1.6rem;
+			font-weight: 400;
+
+			@media (max-width: $tablet) {
+				color: #fff;
+				font-size: 1.4rem;
+			}
+		}
+
+		p {
+			font-size: 1.3rem;
+			color: $black;
+			opacity: 0.8;
+
+			@media (max-width: $tablet) {
+				color: #fff;
+				font-size: 1.2rem;
+			}
+		}
+	}
+
+	@media (max-width: $tablet) {
+		font-size: 1.4rem;
+		font-weight: 300;
+		color: #fff;
+		opacity: 0.8;
+	}
+}
+
+.fade-enter-active,
+.fade-leave-active {
+	transition: all 0.2s ease-in-out;
+}
+
+.fade-enter,
+.fade-leave-to {
+	opacity: 0;
+}

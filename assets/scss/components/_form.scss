@@ -1,0 +1,31 @@
+.form-group {
+	width: 100%;
+	margin-bottom: 1.6rem;
+	label {
+		font-size: 1.4rem;
+		font-weight: 300;
+		line-height: 20px;
+		color: #454745;
+		display: block;
+		letter-spacing: -0.25px;
+		padding-bottom: 0.6rem;
+	}
+
+	input,
+	textarea {
+		width: 100%;
+		height: 4.4rem;
+		border: 1px solid #c9cbce;
+		border-radius: 0.8rem;
+		display: block;
+		// padding: 0 1rem;
+
+		&:focus {
+			outline: none;
+		}
+	}
+
+	textarea {
+		height: 10rem;
+	}
+}

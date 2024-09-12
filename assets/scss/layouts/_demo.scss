@@ -1,0 +1,175 @@
+.demo-page {
+	background: $black;
+	padding: 9.6rem 0;
+
+	&__inner {
+		width: 1280px;
+		margin: 0 auto;
+		display: flex;
+		gap: 9.6rem;
+
+		&__content {
+			width: 600px;
+			max-width: 100%;
+
+			h1 {
+				color: $white;
+				font-size: 7.2rem;
+				font-weight: 500;
+				letter-spacing: -2.5px;
+				line-height: 8rem;
+				padding-bottom: 2.4rem;
+			}
+
+			p {
+				color: $white;
+				font-size: 2rem;
+				font-weight: 300;
+				line-height: 2.8rem;
+				letter-spacing: -0.5px;
+				padding-bottom: 4rem;
+			}
+
+			.contact {
+				display: flex;
+				gap: 3.2rem;
+
+				&_item {
+					width: 288px;
+					background: #ffffff1a;
+					border-radius: 1.6rem;
+					padding: 2.4rem;
+					height: fit-content;
+
+					img {
+						width: 4.8rem;
+						height: 4.8rem;
+					}
+
+					h5 {
+						font-size: 1.8rem;
+						font-weight: 500;
+						line-height: 2.8rem;
+						letter-spacing: -0.25px;
+						color: #fff;
+						padding-top: 2.4rem;
+					}
+
+					p {
+						color: #fff;
+						font-size: 1.6rem;
+						font-weight: 2.4rem;
+						letter-spacing: -0.25px;
+						line-height: 2.4rem;
+						padding-top: 1.2rem;
+					}
+				}
+			}
+		}
+
+		&__form {
+			background: #fff;
+			border-radius: 3.2rem;
+			width: 100%;
+			max-width: 100%;
+			padding: 3.2rem;
+
+			&__title {
+				h3 {
+					font-size: 3.6rem;
+					font-weight: 500;
+					line-height: 4.4rem;
+					letter-spacing: -1.5px;
+					color: $black;
+				}
+			}
+
+			&-wrapper {
+				padding-top: 4.8rem;
+
+				form {
+					width: 100%;
+					// padding: 1rem;
+				}
+			}
+
+			.form-btn {
+				margin-top: 2.4rem;
+				width: 100%;
+				background: $primary;
+				color: $black;
+				border-radius: 6.4rem;
+				font-size: 1.8rem;
+				font-weight: 500;
+				line-height: 2.8rem;
+				letter-spacing: -0.25px;
+				height: 6rem;
+				cursor: pointer;
+			}
+		}
+	}
+}
+
+.demo-contacts {
+	padding: 12.8rem 0;
+
+	&__inner {
+		width: 1280px;
+		margin: 0 auto;
+
+		&__content {
+			h3 {
+				font-size: 4.4rem;
+				font-weight: 500;
+				line-height: 5.6rem;
+				letter-spacing: -1.5px;
+				color: $black;
+				text-align: center;
+				padding-bottom: 6.4rem;
+			}
+
+			.contact-list {
+				display: flex;
+				gap: 3.2rem;
+				justify-content: space-between;
+
+				.contact-item {
+					width: 280px;
+					max-width: 100%;
+					background: #f2f5f7;
+					border-radius: 1rem;
+					padding: 1.6rem 2.4rem;
+
+					.head {
+						display: flex;
+						gap: 0.8rem;
+						align-items: center;
+						padding-bottom: 0.2rem;
+
+						img {
+							width: 2.4rem;
+							height: 2.4rem;
+						}
+
+						h5 {
+							font-size: 1.8rem;
+							font-weight: 500;
+							line-height: 2.8rem;
+							letter-spacing: -0.25px;
+							color: $black;
+						}
+					}
+
+					.contact-link {
+						color: #454745;
+						font-size: 1.8rem;
+						font-weight: 400;
+						line-height: 2.8rem;
+						letter-spacing: -0.25px;
+						text-decoration: underline;
+					}
+				}
+			}
+		}
+	}
+}

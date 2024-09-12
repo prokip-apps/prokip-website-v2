@@ -1,0 +1,63 @@
+.btn {
+	height: 4.4rem;
+	padding: 0 18px;
+	border-radius: 4rem;
+	display: inline-flex;
+	align-items: center;
+	gap: 0.8rem;
+	font-size: 1.5rem;
+	font-weight: 600;
+	letter-spacing: -0.25px;
+	color: $black;
+}
+
+.btn-primary {
+	background: $primary;
+}
+
+.btn-secondary {
+	background: transparent;
+	border: 1px solid $black;
+	height: 6rem;
+	padding: 0 32px;
+}
+
+.btn-primary-border {
+	background: transparent;
+	border: 1px solid $primary;
+	color: $primary;
+
+	svg {
+		filter: invert(76%) sepia(44%) saturate(3841%) hue-rotate(1deg)
+			brightness(105%) contrast(105%);
+	}
+}
+
+.hero-btn {
+	height: 6rem;
+	padding: 0 32px;
+	border-radius: 4rem;
+	display: inline-flex;
+	align-items: center;
+	gap: 1rem;
+	font-size: 1.8rem;
+	font-weight: 500;
+	letter-spacing: -0.25px;
+	color: $black;
+	background: $primary;
+}
+
+.hero-btn-sec {
+	height: 6rem;
+	padding: 0 32px;
+	border-radius: 4rem;
+	display: inline-flex;
+	align-items: center;
+	gap: 1rem;
+	font-size: 1.8rem;
+	font-weight: 500;
+	letter-spacing: -0.25px;
+	color: $primary;
+	background: transparent;
+	border: 1px solid $primary;
+}
