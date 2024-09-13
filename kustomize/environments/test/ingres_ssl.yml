@@ -12,7 +12,7 @@ spec:
     - test.prokip.africa
     secretName: test-tls-api-test
   rules:
-    - host: website.prokip.africa
+    - host: test.prokip.africa
       http:
         paths:
           - pathType: Prefix

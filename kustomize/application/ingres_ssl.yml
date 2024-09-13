@@ -8,10 +8,10 @@ metadata:
 spec:
   tls:
   - hosts:
-    - website.prokip.africa
+    - test.prokip.africa
     secretName: website-tls-api-test
   rules:
-    - host: prokip.africa
+    - host: test.prokip.africa
       http:
         paths:
           - pathType: Prefix
