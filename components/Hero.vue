@@ -27,11 +27,7 @@
               <NuxtImg src="/img/icon/arrow-right.svg" width="22" height="22" />
             </nuxt-link>
 
-            <nuxt-link
-              to="/book-a-demo.vue"
-              class="hero-btn-sec"
-              target="_blank"
-            >
+            <nuxt-link to="/book-a-demo" class="hero-btn-sec" target="_blank">
               Book a Demo
               <NuxtImg
                 src="/img/icon/arrow-right-yellow.svg"
