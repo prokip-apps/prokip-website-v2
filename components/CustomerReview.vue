@@ -24,7 +24,11 @@
 
         <div class="customer-review__inner__video__control">
           <button class="customer-review__inner__video__control__play">
-            <NuxtImg src="/img/icon/play-icon.svg" alt="Play" />
+            <NuxtImg
+              src="/img/icon/play-icon.svg"
+              alt="Play"
+              @click="openVideoModal"
+            />
           </button>
 
           <div class="customer-review__inner__video__control__timeline">

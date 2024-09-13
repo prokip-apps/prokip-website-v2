@@ -31,7 +31,11 @@
 			width: 900px;
 			height: 500px;
 			max-width: 100%;
-			// background-color: red;
+
+			@media (max-width: $tablet) {
+				width: 400px;
+				height: 300px;
+			}
 
 			&__iframe {
 				width: 100%;
