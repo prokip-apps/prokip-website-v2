@@ -9,13 +9,17 @@
           </p>
 
           <div class="contact">
-            <nuxt-link to="/" class="contact_item">
+            <nuxt-link to="/faq" class="contact_item">
               <NuxtImg src="/img/icon/question-icon.svg" alt="phone" />
               <h5>Have a questions?</h5>
               <p>Find the answers to frequently asked questions here.</p>
             </nuxt-link>
 
-            <nuxt-link to="/" class="contact_item">
+            <nuxt-link
+              to="https://blog.prokip.africa"
+              target="_blank"
+              class="contact_item"
+            >
               <NuxtImg src="/img/icon/blog-icon.svg" alt="phone" />
               <h5>Prokip Blog</h5>
               <p>Keep up with the latest news and trends.</p>
