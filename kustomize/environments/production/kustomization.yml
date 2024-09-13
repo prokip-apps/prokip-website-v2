@@ -1,0 +1,7 @@
+bases:
+  - ../../application
+patchesStrategicMerge:
+  - deployment.yml
+  - service.yml
+  - ingres_ssl.yml
+  - replica_count.yml
