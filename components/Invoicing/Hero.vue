@@ -26,6 +26,7 @@
       <div class="hero__inner__image invoicing-hero__image">
         <NuxtImg
           src="/img/invoicing-hero.png"
+          preload
           alt="hero-image"
           class="hero-image"
         />

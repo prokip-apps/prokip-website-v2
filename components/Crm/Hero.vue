@@ -30,7 +30,12 @@
       </div>
 
       <div class="hero__inner__image invoicing-hero__image">
-        <NuxtImg src="/img/crm-hero.png" alt="hero-image" class="hero-image" />
+        <NuxtImg
+          src="/img/crm-hero.png"
+          preload
+          alt="hero-image"
+          class="hero-image"
+        />
       </div>
     </div>
   </div>

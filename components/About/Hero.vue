@@ -23,6 +23,7 @@
       <div class="hero__inner__image about-hero__image">
         <NuxtImg
           src="/img/people-at-prokip.png"
+          preload
           alt="hero-image"
           class="hero-image"
         />

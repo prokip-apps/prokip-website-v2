@@ -25,7 +25,12 @@
       </div>
 
       <div class="hero__inner__image invoicing-hero__image">
-        <NuxtImg src="/img/pos-hero.png" alt="hero-image" class="hero-image" />
+        <NuxtImg
+          src="/img/pos-hero.png"
+          preload
+          alt="hero-image"
+          class="hero-image"
+        />
       </div>
     </div>
   </div>

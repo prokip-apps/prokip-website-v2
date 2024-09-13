@@ -28,6 +28,7 @@
         <NuxtImg
           src="/img/inventory-management-hero.png"
           alt="hero-image"
+          preload
           class="hero-image"
         />
       </div>

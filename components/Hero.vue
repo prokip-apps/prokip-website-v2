@@ -40,11 +40,17 @@
       </div>
 
       <div class="hero__inner__image">
-        <NuxtImg src="/img/hero-home.png" alt="hero-image" class="hero-image" />
+        <NuxtImg
+          src="/img/hero-home.png"
+          preload
+          alt="hero-image"
+          class="hero-image"
+        />
 
         <NuxtImg
           src="/img/mobile-hero.png"
           alt="hero-image"
+          preload
           class="hero-image-mobile"
         />
       </div>
