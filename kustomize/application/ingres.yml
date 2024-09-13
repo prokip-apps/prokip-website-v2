@@ -2,14 +2,13 @@ apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
   name: website-ingress
-  # namespace: test
   annotations:
     kubernetes.io/ingress.class: nginx
     nginx.ingress.kubernetes.io/rewrite-target: /
   
 spec:
   rules:
-  - host: website.prokip.africa
+  - host: prokip.africa
     http:
       paths:
       - path: /

@@ -18,12 +18,7 @@ spec:
         - name: docker-secret
       containers:
         - name: website-nuxt
-          image: prokip/website:production
+          image: prokip/website:test
           imagePullPolicy: Always
           ports:
             - containerPort: 3000
-          env:
-            - name: NODE_ENV
-              value: "production"
-            - name: API_URL
-              value: "https://headless.prokip.co"

@@ -9,7 +9,7 @@ metadata:
   
 spec:
   rules:
-  - host: website.prokip.africa
+  - host: test.prokip.africa
     http:
       paths:
       - path: /
