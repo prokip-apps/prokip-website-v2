@@ -115,6 +115,10 @@
 					font-weight: 500;
 					color: $black;
 					cursor: pointer;
+
+					@media (max-width: $tablet) {
+						padding: 0 1.5rem;
+					}
 				}
 			}
 		}

@@ -1,5 +1,5 @@
 <template>
-  <div class="video-modal">
+  <div class="video-modal" @click="closeVideoModal">
     <button class="video-modal__close" @click="closeVideoModal">
       <Icon name="lucide:x" class="close-icon" />
     </button>
