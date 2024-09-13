@@ -6,7 +6,7 @@
           Power your business to success with Prokip's all in one Solution.
         </h2>
 
-        <div class="prokip-solutions__inner__nav">
+        <!-- <div class="prokip-solutions__inner__nav">
           <button class="prokip-solutions__inner__nav__prev">
             <Icon
               name="lucide:arrow-left"
@@ -19,7 +19,7 @@
               class="prokip-solutions__inner__nav__next__icon"
             />
           </button>
-        </div>
+        </div> -->
       </div>
 
       <div class="prokip-solutions__inner__slider">

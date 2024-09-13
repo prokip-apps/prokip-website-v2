@@ -1,5 +1,5 @@
 <template>
-  <div class="careers-oppurtunities">
+  <section id="careers-oppurtunities" class="careers-oppurtunities">
     <div class="careers-oppurtunities__inner">
       <div class="careers-oppurtunities__heading">
         <div class="left">
@@ -170,7 +170,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </section>
 </template>
 
 <script setup>
