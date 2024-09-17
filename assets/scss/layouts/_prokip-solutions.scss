@@ -57,6 +57,7 @@
 				background: $black;
 				color: $white;
 				cursor: pointer;
+				transition: all 0.3s ease;
 
 				@media (max-width: $tablet) {
 					width: 3.6rem;
@@ -65,12 +66,20 @@
 
 				&__icon {
 					font-size: 2em;
-					color: #fff;
+					color: $black;
 
 					@media (max-width: $tablet) {
 						font-size: 1em;
 					}
 				}
+
+				// &:hover {
+				// 	background: $primary;
+
+				// 	.prokip-solutions__inner__nav__prev__icon {
+				// 		color: $black !important;
+				// 	}
+				// }
 
 				&:disabled {
 					cursor: not-allowed;
@@ -169,4 +178,14 @@
 			}
 		}
 	}
+}
+
+.prokip-solutions__inner__nav__next:not(:disabled):hover {
+	background-color: $primary;
+	transition: background-color 0.3s ease;
+}
+
+.prokip-solutions__inner__nav__prev:not(:disabled):hover {
+	background-color: $primary;
+	transition: background-color 0.3s ease;
 }

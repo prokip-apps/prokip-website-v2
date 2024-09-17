@@ -1,7 +1,12 @@
 <template>
-  <nuxt-link :to="link" class="btn" :class="classes" target="_blank">
+  <nuxt-link :to="link" class="btn" :class="classes">
     {{ title }}
-    <NuxtImg src="/img/icon/arrow-right.svg" width="22" height="22" />
+    <NuxtImg
+      class="icon"
+      src="/img/icon/arrow-right.svg"
+      width="22"
+      height="22"
+    />
   </nuxt-link>
 </template>
 

@@ -155,15 +155,17 @@
               to="/careers/job-details"
               class="careers-oppurtunities__jobs-item"
             >
-              <div class="job__title">
-                <h4>
-                  Business Operations Manager - Saving, Lending & Insurance
-                </h4>
-              </div>
+              <div>
+                <div class="job__title">
+                  <h4>
+                    Business Operations Manager - Saving, Lending & Insurance
+                  </h4>
+                </div>
 
-              <div class="job__info">
-                <div class="title">Operations</div>
-                <div class="location">Lagos</div>
+                <div class="job__info">
+                  <div class="title">Operations</div>
+                  <div class="location">Lagos</div>
+                </div>
               </div>
             </nuxt-link>
           </div>

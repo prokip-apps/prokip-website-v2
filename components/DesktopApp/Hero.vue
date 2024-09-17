@@ -25,7 +25,12 @@
               target="_blank"
             >
               Download Desktop App
-              <NuxtImg src="/img/icon/arrow-right.svg" width="22" height="22" />
+              <NuxtImg
+                src="/img/icon/arrow-right.svg"
+                width="22"
+                height="22"
+                class="icon"
+              />
             </nuxt-link>
           </div>
         </div>

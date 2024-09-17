@@ -9,6 +9,12 @@
 	font-weight: 600;
 	letter-spacing: -0.25px;
 	color: $black;
+
+	&:hover {
+		.icon {
+			animation: icon-move ease-out 0.35s;
+		}
+	}
 }
 
 .btn-primary {
@@ -45,6 +51,16 @@
 	letter-spacing: -0.25px;
 	color: $black;
 	background: $primary;
+
+	&:hover {
+		.icon {
+			animation: icon-move ease-out 0.35s;
+		}
+
+		.icon-move-Y {
+			animation: icon-move-Y ease-out 0.35s;
+		}
+	}
 }
 
 .hero-btn-sec {
@@ -60,4 +76,62 @@
 	color: $primary;
 	background: transparent;
 	border: 1px solid $primary;
+
+	&:hover {
+		.icon {
+			animation: icon-move ease-out 0.35s;
+		}
+	}
+}
+
+@keyframes icon-move {
+	0% {
+		transform: translateX(0);
+	}
+
+	30% {
+		opacity: 0;
+	}
+
+	31% {
+		transform: translateX(1.25rem);
+	}
+
+	32% {
+		transform: translateX(-1.25rem);
+	}
+
+	84% {
+		opacity: 1;
+	}
+
+	100% {
+		transform: translateX(0);
+	}
+}
+
+@keyframes icon-move-Y {
+	0% {
+		transform: translateY(0);
+	}
+
+	30% {
+		opacity: 0;
+	}
+
+	31% {
+		transform: translateY(1.25rem);
+	}
+
+	32% {
+		transform: translateY(-1.25rem);
+	}
+
+	84% {
+		opacity: 1;
+	}
+
+	100% {
+		transform: translateY(0);
+	}
 }

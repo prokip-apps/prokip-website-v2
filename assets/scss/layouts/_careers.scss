@@ -472,6 +472,30 @@
 			background: #fff;
 			padding: 2.8rem 3.2rem;
 			border-radius: 16px;
+			transition: all 0.3s ease;
+
+			&:hover {
+				background: $black;
+				border-color: $black;
+
+				.job__title {
+					h4 {
+						color: $primary;
+					}
+				}
+
+				.job__info {
+					background: #0200584d;
+
+					.title {
+						background: $primary;
+					}
+
+					.location {
+						color: $primary;
+					}
+				}
+			}
 
 			.job__title {
 				h4 {
