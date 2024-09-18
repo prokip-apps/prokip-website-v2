@@ -49,6 +49,12 @@
 				height: 40px;
 				object-fit: contain;
 			}
+
+			&__logo {
+				@media (max-width: $tablet) {
+					margin-right: 8rem !important;
+				}
+			}
 		}
 	}
 }
