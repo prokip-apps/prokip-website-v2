@@ -11,10 +11,15 @@
             class="prokip-solutions__inner__nav__prev"
             @click="prevStep"
             :disabled="step === 1"
+            @mouseenter="isHoveringPrev = true"
+            @mouseleave="isHoveringPrev = false"
           >
             <Icon
               name="lucide:arrow-left"
-              class="prokip-solutions__inner__nav__prev__icon"
+              :class="[
+                'prokip-solutions__inner__nav__prev__icon',
+                { 'hover-icon': isHoveringPrev && step !== 1 },
+              ]"
               :style="{ color: step === 1 ? '#011530' : '#fff' }"
             />
           </button>
@@ -22,10 +27,16 @@
             class="prokip-solutions__inner__nav__next"
             @click="nextStep"
             :disabled="step === 3"
+            @mouseenter="isHoveringNext = true"
+            @mouseleave="isHoveringNext = false"
           >
             <Icon
               name="lucide:arrow-right"
               class="prokip-solutions__inner__nav__next__icon"
+              :class="[
+                'prokip-solutions__inner__nav__next__icon',
+                { 'hover-icon': isHoveringNext && step !== 3 },
+              ]"
               :style="{ color: step === 3 ? '#011530' : '#fff' }"
             />
           </button>
@@ -96,6 +107,8 @@
 
 <script setup>
 const step = ref(1);
+const isHoveringPrev = ref(false);
+const isHoveringNext = ref(false);
 
 const nextStep = () => {
   step.value++;
