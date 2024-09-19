@@ -1,6 +1,11 @@
 <template>
   <div class="invoice-faq">
-    <div v-for="(item, index) in items" :key="index" class="invoice-faq-inner">
+    <div
+      v-for="(item, index) in items"
+      :key="index"
+      class="invoice-faq-inner"
+      :class="{ 'is-open': openItem === index }"
+    >
       <button
         class="invoice-faq__button"
         :class="{ 'is-open': openItem === index }"

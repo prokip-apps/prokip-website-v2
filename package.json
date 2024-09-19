@@ -18,6 +18,7 @@
     "nuxt": "^3.13.0",
     "sass": "^1.78.0",
     "vue": "latest",
+    "vue-js-counter": "^1.0.3",
     "vue-router": "latest",
     "vue3-marquee-slider": "^1.0.5"
   },
