@@ -27,7 +27,7 @@
             <div class="text">Inventory Management</div>
             <div class="underline"></div>
           </div>
-          <h2>Manage & Keep Track of your inventory s</h2>
+          <h2>Manage & Keep Track of your inventory</h2>
           <p>
             Maintain total control of all your products and know exactly how
             many are left, sold or about to finish and expire across all your

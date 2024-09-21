@@ -14,12 +14,12 @@
 
 .about-hero {
 	background: #fff0d6;
-	max-height: 100vh;
+	// max-height: 100vh;
 	padding-bottom: 0;
 
-	@media (max-width: $tablet) {
-		max-height: 68vh;
-	}
+	// @media (max-width: $tablet) {
+	// 	max-height: 68vh;
+	// }
 
 	.hero__inner__content {
 		h1,
@@ -41,7 +41,6 @@
 		position: relative;
 		width: 1216px;
 		max-width: 100%;
-		margin-bottom: 30rem;
 		display: block;
 
 		@media (max-width: $tablet) {
@@ -58,7 +57,7 @@
 	width: 1280px;
 	max-width: 90%;
 	margin: 0 auto;
-	margin-top: 32rem;
+
 	// background: pink;
 	padding: 128px 0;
 

@@ -1,7 +1,10 @@
 <template>
   <div class="integrated-solution">
     <div class="integrated-solution__inner">
-      <div class="integrated-solution__inner__title">
+      <div
+        class="integrated-solution__inner__title"
+        style="width: 982px; max-width: 100%"
+      >
         <h2>
           Explore more integrated solutions designed to help your business grow
         </h2>

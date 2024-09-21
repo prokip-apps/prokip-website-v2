@@ -4,9 +4,6 @@
       <div class="leadership__inner__header">
         <h1>Our leadership</h1>
         <div class="navigation">
-          <span class="slide-count"
-            >{{ currentSlide }}/{{ leaders.length }}</span
-          >
           <div class="navigation__buttons">
             <button
               class="nav-button prev"
@@ -67,26 +64,21 @@ const leaders = [
   {
     name: "Michael Sodimu",
     role: "Co-founder & CTO",
-    image: "/img/blank.png",
+    image: "/img/micheal.png",
   },
   {
     name: "Chi Ohunta",
     role: "Head, People & Culture",
-    image: "/img/blank.png",
+    image: "/img/chi.png",
   },
   {
     name: "Lucy Jiki",
     role: "Operations Lead",
-    image: "/img/blank.png",
+    image: "/img/lucy.png",
   },
   {
     name: "Faith Enyinn",
     role: "Head of Sales",
-    image: "/img/blank.png",
-  },
-  {
-    name: "John Doe",
-    role: "Marketing Director",
     image: "/img/blank.png",
   },
 ];
@@ -109,7 +101,7 @@ const prevSlide = () => {
 const visibleSlides = computed(() => {
   if (process.client) {
     const containerWidth = sliderContainer.value?.offsetWidth || 0;
-    if (containerWidth >= 1280) return 5;
+    if (containerWidth >= 1280) return 4;
     if (containerWidth >= 1024) return 4;
     if (containerWidth >= 768) return 3;
     if (containerWidth >= 640) return 2;
