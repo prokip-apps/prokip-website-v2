@@ -8,7 +8,7 @@
       <div class="why-prokip__inner__list">
         <div class="why-prokip__inner__list__item">
           <div class="why-prokip__inner__list__item__icon">
-            <NuxtImg src="/img/icon/tailor-for-nigeria.svg" alt="Icon 1" />
+            <NuxtImg src="/img/icon/why-prokip-icon.svg" alt="Icon 1" />
           </div>
           <div class="why-prokip__inner__list__item__content">
             <h3>Tailored for Nigeria</h3>
@@ -21,7 +21,7 @@
 
         <div class="why-prokip__inner__list__item">
           <div class="why-prokip__inner__list__item__icon">
-            <NuxtImg src="/img/icon/all-in-one-icon.svg" alt="Icon 1" />
+            <NuxtImg src="/img/icon/why-prokip-icon.svg" alt="Icon 1" />
           </div>
           <div class="why-prokip__inner__list__item__content">
             <h3>All in one solution </h3>
@@ -34,10 +34,7 @@
 
         <div class="why-prokip__inner__list__item">
           <div class="why-prokip__inner__list__item__icon">
-            <NuxtImg
-              src="/img/icon/highly-customizable-icon.svg"
-              alt="Icon 1"
-            />
+            <NuxtImg src="/img/icon/why-prokip-icon.svg" alt="Icon 1" />
           </div>
           <div class="why-prokip__inner__list__item__content">
             <h3>Highly Customizable</h3>
@@ -50,7 +47,7 @@
 
         <div class="why-prokip__inner__list__item">
           <div class="why-prokip__inner__list__item__icon">
-            <NuxtImg src="/img/icon/offline-sale-icon.svg" alt="Icon 1" />
+            <NuxtImg src="/img/icon/why-prokip-icon.svg" alt="Icon 1" />
           </div>
           <div class="why-prokip__inner__list__item__content">
             <h3>Offline Sales</h3>
@@ -64,7 +61,7 @@
 
         <div class="why-prokip__inner__list__item">
           <div class="why-prokip__inner__list__item__icon">
-            <NuxtImg src="/img/icon/dedicated-brm-icon.svg" alt="Icon 1" />
+            <NuxtImg src="/img/icon/why-prokip-icon.svg" alt="Icon 1" />
           </div>
           <div class="why-prokip__inner__list__item__content">
             <h3>Dedicated BRMs</h3>
@@ -78,7 +75,7 @@
 
         <div class="why-prokip__inner__list__item">
           <div class="why-prokip__inner__list__item__icon">
-            <NuxtImg src="/img/icon/offline-sale-icon.svg" alt="Icon 1" />
+            <NuxtImg src="/img/icon/why-prokip-icon.svg" alt="Icon 1" />
           </div>
           <div class="why-prokip__inner__list__item__content">
             <h3>Simple and Robust</h3>

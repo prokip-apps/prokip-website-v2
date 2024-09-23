@@ -114,7 +114,7 @@
           <TheButton title="Learn more" link="/" classes="btn-secondary" />
         </div>
         <div class="home-features__inner__item__image">
-          <NuxtImg src="/img/point-of-sale-preview.png" alt="Home Features" />
+          <NuxtImg src="/img/accounting-preview.png" alt="Home Features" />
         </div>
       </div>
     </div>
