@@ -11,11 +11,12 @@
         </div> -->
 
         <div class="hero__inner__content">
-          <h1>Manage and Grow your business <span>with ease</span></h1>
+          <h1>Transform the Way You Manage Your <span>Business</span></h1>
           <p>
-            Prokip is an all-in-one business solution integrating bookkeeping,
-            Point of sales system, inventory Management, Accounting, CRM, and
-            more tailored for businesses like yours in Nigeria.
+            Prokip is your all-in-one business solution, designed to simplify
+            daily operations by helping you manage sales, track inventory, and
+            handle accounting, bookkeeping, and customer relationships—making it
+            easier for businesses like yours in Nigeria to operate every day.
           </p>
           <div class="hero__inner__content__actions">
             <nuxt-link

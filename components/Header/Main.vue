@@ -24,9 +24,10 @@
 
         <div class="header__nav__right hide-mobile">
           <TheButton
-            link="/pricing"
-            title="Get Started"
+            link="https://app.prokip.co/login"
+            title="Login"
             classes="btn-primary"
+            target="_blank"
           />
           <HeaderCountrySelector />
         </div>
