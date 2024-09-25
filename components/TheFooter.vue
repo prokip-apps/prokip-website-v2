@@ -7,17 +7,17 @@
             <div class="logo">
               <img src="/img/logo-color.svg" alt="logo" />
             </div>
-            <p>
+            <!-- <p>
               Be the first to receive all the recent updates, articles, and
               valuable materials.
-            </p>
+            </p> -->
           </div>
-          <div class="footer__inner__newletter-email">
+          <!-- <div class="footer__inner__newletter-email">
             <form action="">
               <input type="email" placeholder="Email address" />
               <button type="submit" class="subscribe">Subscribe</button>
             </form>
-          </div>
+          </div> -->
         </div>
         <div class="footer__inner__top__links">
           <div class="footer__inner__top__links__column">

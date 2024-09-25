@@ -19,9 +19,9 @@
           <div class="integrated-solution__inner__features__content">
             <h3>CRM & Marketing</h3>
             <p>
-              Manage all customers, recover debts 2X faster, Retain and acquire
-              new customers with transactional and marketing email/SMS
-              campaigns.
+              Effectively manage all your customers, recover debts 2X faster,
+              attract new clients, and retain existing ones with targeted email
+              and SMS marketing campaigns.
             </p>
             <NuxtLink to="/" class="get-started">
               <NuxtImg src="/img/icon/arrow-right-green.svg" alt="Arrow" />
@@ -38,8 +38,8 @@
           <div class="integrated-solution__inner__features__content">
             <h3>HRM & Payroll</h3>
             <p>
-              Manage all employee records, take attendance, track their
-              activities, and Automate their salaries payments.
+              Manage all employee records, track attendance, monitor activities,
+              and automate salary payments.
             </p>
             <NuxtLink to="/" class="get-started">
               <NuxtImg src="/img/icon/arrow-right-green.svg" alt="Arrow" />
@@ -56,8 +56,9 @@
           <div class="integrated-solution__inner__features__content">
             <h3>Custom Modules</h3>
             <p>
-              Extend the core features of Prokip for more customizations  with
-              modules tailored for your type of business operations and needs.
+              Customize Prokip with additional modules designed specifically for
+              your business needs, enhancing its core features to better fit
+              your unique operations.
             </p>
             <NuxtLink to="/" class="get-started">
               <NuxtImg src="/img/icon/arrow-right-green.svg" alt="Arrow" />

@@ -1,17 +1,21 @@
 <template>
   <div class="home-features">
     <div class="home-features__inner">
+      <div class="home-features__title">
+        <h2>Prokip Features to Power Every Aspect of Your Business</h2>
+      </div>
+
       <div class="home-features__inner__item">
         <div class="home-features__inner__item__content">
           <div class="home-features__inner__item__content__title">
             <div class="text">Point of Sales</div>
             <div class="underline"></div>
           </div>
-          <h2>Automate your selling Process</h2>
+          <h2>Automate your selling process</h2>
           <p>
-            Reduce queue & Attend to customers faster using any type of
-            Printers, barcode scanners, cash drawer & POS Terminals with dynamic
-            pricing options and payment methods.
+            Reduce queues and attend to customers faster using any type of
+            printer, barcode scanner, cash drawer, and POS terminals, all with
+            dynamic pricing options and multiple payment methods.
           </p>
 
           <TheButton title="Learn more" link="/pos" classes="btn-secondary" />
@@ -27,11 +31,11 @@
             <div class="text">Inventory Management</div>
             <div class="underline"></div>
           </div>
-          <h2>Manage & Keep Track of your inventory</h2>
+          <h2>Manage & Keep Track of your Inventory</h2>
           <p>
-            Maintain total control of all your products and know exactly how
-            many are left, sold or about to finish and expire across all your
-            business locations and warehouse.
+            Maintain complete control of all your products and know exactly how
+            many are left, sold, or about to run out and expire across all your
+            business locations and warehouses.
           </p>
 
           <TheButton
@@ -56,9 +60,10 @@
           </div>
           <h2>Make better decisions with reports that matters.</h2>
           <p>
-            Analyse sales performance, inventory levels, Low and fast moving
-            products with standard reports and insights required to helps your
-            business grow.
+            Leverage detailed insights to analyze sales performance, track
+            inventory levels, and identify low and fast-moving products,
+            empowering you to make informed decisions that drive business
+            growth.
           </p>
 
           <TheButton
@@ -78,13 +83,12 @@
             <div class="text">Invoices</div>
             <div class="underline"></div>
           </div>
-          <h2>Send better invoices and get paid Faster</h2>
+          <h2>Send better invoices and get paid faster</h2>
           <p>
-            Send customizable invoices in your brand name and get paid in
-            multiple currencies 
-            <br />
-            Your clients can view invoices instantly and pay online from
-            anywhere with Email and SMS due Reminders.
+            Send personalized invoices featuring your brand name and accept
+            payments in multiple currencies. Your clients can instantly view
+            their invoices and make payments online from anywhere, with email
+            and SMS reminders for due dates.
           </p>
 
           <TheButton
@@ -104,11 +108,11 @@
             <div class="text">Accounting</div>
             <div class="underline"></div>
           </div>
-          <h2>Robust and easy Accounting.</h2>
+          <h2>Robust and easy Accounting</h2>
           <p>
-            Manage your accounts, Reconcile payments, Track profits and loss,
-            know your business financial positions and gain clarity across all
-            your business locations.
+            Efficiently manage your accounts, reconcile payments, and track
+            profits and losses to understand your business's financial position
+            and gain clarity across all locations.
           </p>
 
           <TheButton title="Learn more" link="/" classes="btn-secondary" />

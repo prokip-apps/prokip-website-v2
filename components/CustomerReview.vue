@@ -7,10 +7,11 @@
       </div>
 
       <div class="customer-review__inner__content">
-        <h2>Why you should trust us</h2>
+        <h2>Why You Can Count on Us</h2>
         <p>
-          Hear from our customers, on what it’s like to use Prokip and see why
-          this is the best business management software for your business.
+          Listen to our customers share their experiences with Prokip and find
+          out why they believe it’s the ultimate business management software
+          for their operational needs.
         </p>
       </div>
 

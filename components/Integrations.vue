@@ -38,7 +38,11 @@
       </div>
 
       <div class="integrations__inner__cta">
-        <TheButton title="Explore Solutions" link="/" classes="hero-btn" />
+        <TheButton
+          title="TRY IT NOW!"
+          link="https://app.prokip.co/register"
+          classes="hero-btn"
+        />
       </div>
     </div>
   </div>

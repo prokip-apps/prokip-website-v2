@@ -2,9 +2,7 @@
   <div class="prokip-solutions">
     <div class="prokip-solutions__inner">
       <div class="prokip-solutions__inner__title">
-        <h2>
-          Power your business to success with Prokip's all in one Solution.
-        </h2>
+        <h2>Run your business profitably without being there 24/7</h2>
 
         <div class="prokip-solutions__inner__nav">
           <button
@@ -46,10 +44,11 @@
       <div class="prokip-solutions__inner__slider">
         <div class="prokip-solutions__inner__slider__item" v-if="step === 1">
           <div class="prokip-solutions__inner__slider__item__content">
-            <h2>Manage Sales & Inventory</h2>
+            <h2>Stay in Control, From Stock to Sale</h2>
             <p>
-              Sell to customers faster and keep accurate records of every sales
-              transaction and inventory across all your business locations.
+              Keep track of your stock levels, monitor sales in real-time, and
+              set up automatic reordering to ensure you never run out of
+              essential items.
             </p>
             <TheButton
               title="Get started"
@@ -87,8 +86,8 @@
           <div class="prokip-solutions__inner__slider__item__content order-2">
             <h2>Grow your business 2X faster</h2>
             <p>
-              Increase your profits and Get more sales with integrated Marketing
-              solutions and CRM that keep your customers happy.
+              Increase your profits and get more sales with easy-to-use
+              marketing tools and CRM that keep your customers happy.
             </p>
             <TheButton
               title="Get started"

@@ -2,7 +2,7 @@
   <div class="why-prokip">
     <div class="why-prokip__inner">
       <div class="why-prokip__inner__title">
-        <h2>Why Prokip</h2>
+        <h2>Why You Should Try Prokip Today!</h2>
       </div>
 
       <div class="why-prokip__inner__list">
@@ -13,8 +13,9 @@
           <div class="why-prokip__inner__list__item__content">
             <h3>Tailored for Nigeria</h3>
             <p>
-              Built to serve the Nigerian market and fit into any type of
-              Nigerian business operations and unique conditions.
+              Designed specifically for the Nigerian market, Prokip seamlessly
+              integrates into any business operation while accommodating unique
+              local conditions.
             </p>
           </div>
         </div>
@@ -26,8 +27,9 @@
           <div class="why-prokip__inner__list__item__content">
             <h3>All in one solution </h3>
             <p>
-              From Robust inventory to simplified accounting and marketing,
-              Prokip gives you all 
+              From robust inventory management to simplified accounting and
+              marketing tools, Prokip provides everything you need in one
+              comprehensive platform.
             </p>
           </div>
         </div>
@@ -39,8 +41,9 @@
           <div class="why-prokip__inner__list__item__content">
             <h3>Highly Customizable</h3>
             <p>
-              Prokip gives you all the options needed to make it work the way
-              you want and exactly how your business operates without limits.
+              With extensive customization options, Prokip adapts to your
+              specific business needs, allowing you to operate without
+              limitations.
             </p>
           </div>
         </div>
@@ -52,9 +55,9 @@
           <div class="why-prokip__inner__list__item__content">
             <h3>Offline Sales</h3>
             <p>
-              With the free Point of sales desktop app,  you can  Sell and
-              attend to customers offline without interruptions and access all
-              your sales transactions online
+              Utilize our free Point of Sale desktop app to sell and assist
+              customers offline without interruptions, while still having access
+              to all your sales transactions online.
             </p>
           </div>
         </div>
@@ -64,11 +67,11 @@
             <NuxtImg src="/img/icon/why-prokip-icon.svg" alt="Icon 1" />
           </div>
           <div class="why-prokip__inner__list__item__content">
-            <h3>Dedicated BRMs</h3>
+            <h3>Dedicated Business Relationship Managers (BRMs)</h3>
             <p>
-              Beyond 247 Support service across multiple channels, Prokips
-              offers you a business relationship manager (BRM) who will come to
-              your business location for FREE.
+              In addition to 24/7 support across multiple channels, Prokip
+              offers a dedicated Business Relationship Manager (BRM) who will
+              visit your location at no additional cost.
             </p>
           </div>
         </div>
@@ -80,8 +83,9 @@
           <div class="why-prokip__inner__list__item__content">
             <h3>Simple and Robust</h3>
             <p>
-              Even with the robust nature of Prokip, it's still rated one of the
-              most simplest app in the market by more than 22,000 businesses.
+              Despite its powerful capabilities, Prokip is recognized as one of
+              the simplest applications on the market, trusted by over 22,000
+              businesses.
             </p>
           </div>
         </div>

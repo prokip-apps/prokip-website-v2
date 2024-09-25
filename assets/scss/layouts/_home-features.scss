@@ -115,4 +115,24 @@
 			}
 		}
 	}
+
+	&__title {
+		width: 800px;
+		margin: 0 auto;
+		padding-bottom: 12.8rem;
+
+		@media (max-width: $tablet) {
+			width: 90%;
+			padding-bottom: 6.4rem;
+		}
+
+		h2 {
+			font-size: 5.8rem;
+			color: $black;
+			font-weight: 500;
+			line-height: 6.8rem;
+			letter-spacing: -2px;
+			text-align: center;
+		}
+	}
 }

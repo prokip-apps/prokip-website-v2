@@ -12,8 +12,8 @@
         <h2>Cutting-edge <span>payment solutions</span></h2>
         <p>
           Our integrated payment system empowers you to seamlessly manage
-          transactions, whether they are online, in-store, or across various
-          business operations such as sales, invoices, and payroll.
+          transactions, whether online, in-store, or across various business
+          operations such as sales, invoicing, and payroll.
         </p>
       </div>
       <div class="promonie__inner__image">
@@ -28,8 +28,8 @@
           <div class="promonie__inner__features__item__content">
             <h3>In-Built Payment Solution </h3>
             <p>
-              Payout and Accept integrated online and in-store payments for all
-              your sales seamlessly beyond borders in Multiple currencies.
+              Easily pay and accept online and in-store payments for all your
+              sales, even across borders and in multiple currencies.
             </p>
           </div>
         </div>
@@ -41,8 +41,8 @@
           <div class="promonie__inner__features__item__content">
             <h3>Invoices</h3>
             <p>
-              Receive payments for your invoices in minutes with multiple
-              payments options that your clients love and already use.
+              Get paid for your invoices within minutes using multiple payment
+              options that your clients already know and use.
             </p>
           </div>
         </div>
@@ -54,8 +54,9 @@
           <div class="promonie__inner__features__item__content">
             <h3>Product Link</h3>
             <p>
-              Get paid by multiple person at the same time from anywhere for
-              your products and Automatically deliver paid invoices to them.
+              Receive payments from multiple people at once for your products,
+              no matter where they are, and automatically send them their
+              invoices.
             </p>
           </div>
         </div>
@@ -67,9 +68,10 @@
           <div class="promonie__inner__features__item__content">
             <h3>Point of Sales</h3>
             <p>
-              Empower your staff to serve multiple customers faster and confirm
-              bank transfer payments without your presence and let Prokip
-              Automatically reconcile all payments.
+              Empower your staff to efficiently serve multiple customers and
+              confirm bank transfer payments in your absence. Prokip
+              automatically reconciles all payments, ensuring a smooth and
+              streamlined process.
             </p>
           </div>
         </div>
@@ -81,8 +83,9 @@
           <div class="promonie__inner__features__item__content">
             <h3>Payroll</h3>
             <p>
-              Automate your staff salary payments every month with options for
-              rules and  manual intervention
+              Automatically pay your staff salaries every month with the option
+              to set rules and make manual changes when needed. Make your
+              payroll process easy and ensure your employees get paid on time.
             </p>
           </div>
         </div>
@@ -96,8 +99,8 @@
               Business Accounts <span class="coming-soon">Coming soon</span>
             </h3>
             <p>
-              Get a business account in your business name and manage all your
-              payments across different locations right inside of Prokip
+              Open a business account in your company's name and easily manage
+              all your payments from different locations, all within Prokip.
             </p>
           </div>
         </div>
@@ -109,8 +112,10 @@
           <div class="promonie__inner__features__item__content">
             <h3>Business Loans <span class="coming-soon">Coming soon</span></h3>
             <p>
-              Access business loans to grow your business as you transact more
-              with Prokip and Promonie
+              Unlock the potential of your business with flexible loans designed
+              for growth. As you transact more with Prokip and Promonie, you can
+              access the funding you need to elevate your business to new
+              heights.
             </p>
           </div>
         </div>
