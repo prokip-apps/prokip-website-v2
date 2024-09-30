@@ -11,11 +11,11 @@
         </div>
 
         <div class="hero__inner__content">
-          <h1>Empowering businesses since 2019</h1>
+          <h1>Empowering African businesses since 2019</h1>
           <p>
-            Prokip is committed to helping businesses across Africa thrive.
-            We’re dedicated to making business operations easier so you can
-            focus on growing your business as fast as you can with ease.
+            At Prokip, we're dedicated to helping businesses across Africa
+            thrive. Our mission is to simplify business operations, allowing you
+            to focus on scaling your business efficiently and with ease.
           </p>
         </div>
       </div>

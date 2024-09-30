@@ -3,11 +3,11 @@
     <div class="features__inner">
       <div class="features__inner__item">
         <div class="features__inner__item__content">
-          <h3>Manage all your Products & Services</h3>
+          <h3>Manage Your Inventory</h3>
           <p>
-            Track  stock levels , update prices, oversee all aspects of your
-            inventory in real-time and manage all your products and Services
-            with ease.
+            Effortlessly monitor stock levels, update prices, and manage every
+            aspect of your inventory in real-time, ensuring seamless control
+            over your products and services
           </p>
         </div>
         <div class="features__inner__item__image">

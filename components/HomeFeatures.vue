@@ -2,7 +2,7 @@
   <div class="home-features">
     <div class="home-features__inner">
       <div class="home-features__title">
-        <h2>Prokip Features to Power Every Aspect of Your Business</h2>
+        <h2>All you need in one place</h2>
       </div>
 
       <div class="home-features__inner__item">
@@ -58,7 +58,7 @@
             <div class="text">Reports</div>
             <div class="underline"></div>
           </div>
-          <h2>Make better decisions with reports that matters.</h2>
+          <h2>Make better decisions with reports that matters</h2>
           <p>
             Leverage detailed insights to analyze sales performance, track
             inventory levels, and identify low and fast-moving products,

@@ -3,10 +3,8 @@
     <div class="about-mission__inner">
       <div class="about-mission__inner__content">
         <h1>
-          At Prokip, we’re dedicated to making business operations easier
-          <span
-            >so you can focus on growing your business as fast as you can.</span
-          >
+          At Prokip, we simplify your operations, allowing you to focus on
+          <span>accelerating your business growth</span>
         </h1>
       </div>
 

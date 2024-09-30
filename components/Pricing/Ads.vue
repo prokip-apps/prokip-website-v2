@@ -3,10 +3,10 @@
     <div class="crm-ads__inner">
       <div class="crm-ads__box">
         <div class="crm-ads__box__content">
-          <h3>Your <span>Main Header</span> written here.</h3>
+          <h3>Get Started with a <span>Special Rate!</span></h3>
           <p>
-            Take advantage of a great introductory rate on your first transfer.
-            Register now to get started!
+            Register today for a reduced rate on your first payment and see how
+            Prokip can streamline your operations and boost efficiency
           </p>
           <TheButton
             link="https://app.prokip.co/register"

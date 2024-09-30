@@ -8,20 +8,9 @@
           </div>
 
           <div class="extra-features__list__item__content">
-            <h3>Barcode Scan</h3>
-            <p>Scan through thousands of Products with any model of barcode.</p>
-          </div>
-        </div>
-
-        <div class="extra-features__list__item">
-          <div class="extra-features__list__item__image">
-            <NuxtImg src="/img/icon/promonie-icon.svg" alt="icon" />
-          </div>
-
-          <div class="extra-features__list__item__content">
-            <h3>Suspends</h3>
+            <h3>Barcode Scanning</h3>
             <p>
-              Attend to multiple customers at the same time and reduce queues.
+              Effortlessly scan thousands of products using any barcode model
             </p>
           </div>
         </div>
@@ -32,10 +21,10 @@
           </div>
 
           <div class="extra-features__list__item__content">
-            <h3>Invoice Designs</h3>
+            <h3>Multi-Customer Support</h3>
             <p>
-              Create custom designs, add more fields and switch between multiple
-              invoice designs.
+              Serve multiple customers at once to cut down on wait times and
+              keep lines moving
             </p>
           </div>
         </div>
@@ -46,10 +35,10 @@
           </div>
 
           <div class="extra-features__list__item__content">
-            <h3>Discounts</h3>
+            <h3>Customizable Invoice Designs</h3>
             <p>
-              Offer discounts to total customer order or to a particular product
-              inside an invoice.
+              Design unique invoices by adding custom fields and effortlessly
+              switching between various templates to match your brand.
             </p>
           </div>
         </div>
@@ -60,8 +49,26 @@
           </div>
 
           <div class="extra-features__list__item__content">
-            <h3>Taxes</h3>
-            <p>Apply single and multiple taxes to sales and products.</p>
+            <h3>Flexible Discount Options</h3>
+            <p>
+              Provide discounts on total orders or specific products directly
+              within invoices, giving you the flexibility to reward customers as
+              you see fit
+            </p>
+          </div>
+        </div>
+
+        <div class="extra-features__list__item">
+          <div class="extra-features__list__item__image">
+            <NuxtImg src="/img/icon/promonie-icon.svg" alt="icon" />
+          </div>
+
+          <div class="extra-features__list__item__content">
+            <h3>Tax Management</h3>
+            <p>
+              Easily apply single or multiple taxes to your sales and products,
+              ensuring accurate and compliant transactions every time
+            </p>
           </div>
         </div>
 
@@ -82,8 +89,11 @@
           </div>
 
           <div class="extra-features__list__item__content">
-            <h3>Rounding</h3>
-            <p>Roundup payments t (eg, 10.9 to 11 or 10.2 to 10).</p>
+            <h3>Automatic Rounding</h3>
+            <p>
+              Easily round up payment amounts to simplify transactions and
+              improve customer satisfaction
+            </p>
           </div>
         </div>
 
@@ -95,7 +105,8 @@
           <div class="extra-features__list__item__content">
             <h3>Sales Returns </h3>
             <p>
-              Manage sales returns and refunds with access controls to staff.
+              Ensure secure and efficient management of sales returns and
+              refunds with access controls for authorized staff only
             </p>
           </div>
         </div>
@@ -108,8 +119,8 @@
           <div class="extra-features__list__item__content">
             <h3>Advance Payment</h3>
             <p>
-               Accept Advance payments from customers and and apply as payment
-              method for checkout.
+              Accept advance payments from customers and apply them as a payment
+              method during checkout
             </p>
           </div>
         </div>
@@ -120,10 +131,10 @@
           </div>
 
           <div class="extra-features__list__item__content">
-            <h3>Multi Location</h3>
+            <h3>Multi-Location Selling</h3>
             <p>
-              Sell from multiple location on same screen and limit sales persons
-              to only particular locations.
+              Sell from multiple locations on a single screen and restrict sales
+              personnel to specific areas
             </p>
           </div>
         </div>
@@ -134,9 +145,11 @@
           </div>
 
           <div class="extra-features__list__item__content">
-            <h3>Sales & Service Staffs</h3>
+            <h3>Manage Your Sales & Service Team</h3>
             <p>
-              Assign salesperson or service staffs like waiters to each orders.
+              Assign specific roles to sales and service staff, such as waiters
+              or salespersons, for each order to ensure efficient service and
+              accountability
             </p>
           </div>
         </div>
@@ -149,8 +162,8 @@
           <div class="extra-features__list__item__content">
             <h3>Promonie</h3>
             <p>
-              Accept bank transfer payments and let your salesperson confirm it
-              without your presence.
+              Easily accept bank transfers and allow your salesperson to confirm
+              payments independently, streamlining your checkout process
             </p>
           </div>
         </div>

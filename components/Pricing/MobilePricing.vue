@@ -4,8 +4,8 @@
       <div class="mobile-pricing__item">
         <div class="mobile-pricing__item-header">
           <div class="content">
-            <h3>Standard</h3>
-            <p>Ideal for growing businesses.</p>
+            <h3>Standard Plan</h3>
+            <p>Great for growing businesses</p>
           </div>
 
           <div class="image">
@@ -96,8 +96,8 @@
         <div class="mobile-pricing__item-header">
           <span class="most-popular-badge">Most Popular</span>
           <div class="content">
-            <h3>Premium</h3>
-            <p>For established businesses</p>
+            <h3>Premium Plan</h3>
+            <p>Great for established businesses</p>
           </div>
 
           <div class="image">
@@ -193,8 +193,8 @@
       <div class="mobile-pricing__item">
         <div class="mobile-pricing__item-header">
           <div class="content">
-            <h3>Ultimate</h3>
-            <p>For max. business impact.</p>
+            <h3>Ultimate Plan</h3>
+            <p>Maximize business impact with our most advanced features</p>
           </div>
 
           <div class="image">

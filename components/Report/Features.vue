@@ -3,11 +3,11 @@
     <div class="features__inner">
       <div class="features__inner__item">
         <div class="features__inner__item__content">
-          <h3>Analyze all your business transactions</h3>
+          <h3>Comprehensive Business Insights</h3>
           <p>
-            Get a comprehensive view of all your business transactions with
-            detailed insights into inventory, sales, customer behavior, and
-            daily operations.
+            Gain a full overview of your business with detailed insights into
+            inventory, sales, customer behavior, and daily operations, helping
+            you make informed decisions and optimize performance
           </p>
         </div>
         <div class="features__inner__item__image">
@@ -17,11 +17,11 @@
 
       <div class="features__inner__item">
         <div class="features__inner__item__content order-2">
-          <h3>Unlock hidden insights inside your business</h3>
+          <h3>Identify Key Growth Opportunities</h3>
           <p>
-            Uncover valuable insights hidden within your business data with
-            deeper understanding of metrics and trends that can drive your
-            business forward.
+            Uncover critical insights from your sales, customer behavior, and
+            inventory data to pinpoint specific areas for expansion and
+            improvement, driving your business forward
           </p>
         </div>
         <div class="features__inner__item__image order-1">
@@ -50,10 +50,10 @@
 
       <div class="features__inner__item">
         <div class="features__inner__item__content order-2">
-          <h3>Stay at the Top of Your Game</h3>
+          <h3>Stay Ahead of the Competition</h3>
           <p>
-            Stay ahead of the competition by leveraging detailed insights needed
-            to keep your business thriving and drive sustainable  growth
+            Gain a competitive edge with actionable insights that empower your
+            business to thrive and achieve sustainable growth
           </p>
         </div>
         <div class="features__inner__item__image order-1">

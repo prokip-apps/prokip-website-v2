@@ -7,11 +7,11 @@
 
       <div class="about-careers__inner__content">
         <SectionTitle title="Careers" />
-        <h2>Explore roles at Prokip’s offices around the world</h2>
+        <h2>Join Our Global Team at Prokip</h2>
         <p>
-          We're making journey all over the world, as a remote company with
-          employees in multiple countries around the globe. Our team is big on
-          collaboration and flexibility.
+          At Prokip, we're a remote company with team members across the globe.
+          We prioritize collaboration and flexibility, allowing our employees to
+          excel in a supportive and dynamic work environment.
         </p>
 
         <TheButton title="View open roles" link="/careers" classes="hero-btn" />

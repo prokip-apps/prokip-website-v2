@@ -2,7 +2,7 @@
   <div class="integrated-solution crm-why">
     <div class="integrated-solution__inner">
       <div class="integrated-solution__inner__title">
-        <h2>Features</h2>
+        <h2>Why you need Prokip</h2>
       </div>
 
       <div class="integrated-solution__inner__features">

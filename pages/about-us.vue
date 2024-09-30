@@ -1,6 +1,10 @@
 <template>
   <div>
-    <HeaderMain classes="about-us-header" logo="/img/logo-color.svg" />
+    <HeaderMain
+      classes="about-us-header"
+      logo="/img/logo-color.svg"
+      globalIconSrc="/img/icon/global-icon-black.svg"
+    />
     <AboutHero />
     <AboutJourney />
     <AboutMission />

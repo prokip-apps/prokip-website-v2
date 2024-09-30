@@ -32,7 +32,7 @@
           src="/img/ng-flag.svg"
           alt=""
         />
-        <NuxtImg width="28px" v-else src="/img/icon/globe-icon.svg" alt="" />
+        <NuxtImg width="28px" v-else :src="globalIconSrc" alt="" />
 
         <span v-if="$route.path.includes('/ng')">NG</span>
         <span v-else-if="$route.path.includes('/gh')">GH</span>
@@ -78,6 +78,12 @@
 import { useRouter } from "vue-router";
 
 export default {
+  props: {
+    globalIconSrc: {
+      type: String,
+      default: "/img/icon/globe-icon.svg",
+    },
+  },
   data() {
     return {
       dropdown: false,

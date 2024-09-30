@@ -13,6 +13,17 @@
         <HeaderDropDown title="Platforms" :items="platform" />
 
         <HeaderDropDown title="Company" :items="company" />
+
+        <NuxtLink
+          to="https://app.prokip.co/login"
+          target="_blank"
+          class="mobile-menu__login"
+          >Login</NuxtLink
+        >
+
+        <HeaderCountrySelector
+          globalIconSrc="/img/icon/global-icon-black.svg"
+        />
       </div>
     </div>
   </div>
@@ -30,7 +41,7 @@ const products = [
     text: "lorem ipsum dolor mans knshja skwa",
   },
   {
-    title: "invoice",
+    title: "Invoice",
     link: "/invoice",
     text: "lorem ipsum dolor mans knshja skwa",
   },

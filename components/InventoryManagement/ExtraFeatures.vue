@@ -1,6 +1,8 @@
 <template>
   <div class="extra-features">
     <div class="extra-features__inner">
+      <h2 class="extra-features__title">Features</h2>
+
       <div class="extra-features__list">
         <div class="extra-features__list__item">
           <div class="extra-features__list__item__image">
@@ -8,10 +10,10 @@
           </div>
 
           <div class="extra-features__list__item__content">
-            <h3>Brands & Categories </h3>
+            <h3>Organize by Brands & Categories</h3>
             <p>
-              Add and sort your products by categories and brands to keep your
-              inventory even more organised.
+              Easily sort and categorize your products by brand and category to
+              maintain an organized inventory
             </p>
           </div>
         </div>
@@ -22,21 +24,10 @@
           </div>
 
           <div class="extra-features__list__item__content">
-            <h3>Low Stock Alerts</h3>
-            <p>Get notified of products with low stock before they finish.</p>
-          </div>
-        </div>
-
-        <div class="extra-features__list__item">
-          <div class="extra-features__list__item__image">
-            <NuxtImg src="/img/icon/promonie-icon.svg" alt="icon" />
-          </div>
-
-          <div class="extra-features__list__item__content">
-            <h3>Stock Expiration </h3>
+            <h3>Low Stock Notifications</h3>
             <p>
-              Set expiring dates for each products and get notified 3 months or
-              more before they expire.
+              Receive timely alerts for products running low on stock to ensure
+              you never run out
             </p>
           </div>
         </div>
@@ -47,10 +38,10 @@
           </div>
 
           <div class="extra-features__list__item__content">
-            <h3>Labels & Barcode</h3>
+            <h3>Expiration Notifications</h3>
             <p>
-              Print custom labels in bulk for your products with barcodes and
-              sort through all with barcode scanning.
+              Set expiration dates for each product and receive alerts at least
+              three months in advance to manage inventory effectively
             </p>
           </div>
         </div>
@@ -61,10 +52,10 @@
           </div>
 
           <div class="extra-features__list__item__content">
-            <h3>Bulk imports  </h3>
+            <h3>Labels & Barcodes</h3>
             <p>
-              Migrate from other softwares and Import all your products and
-              stocks in bulk easily.
+              Print bulk custom labels with barcodes for your products and
+              easily sort through them using barcode scanning
             </p>
           </div>
         </div>
@@ -75,10 +66,24 @@
           </div>
 
           <div class="extra-features__list__item__content">
-            <h3>Bulk edits</h3>
+            <h3>Bulk Imports</h3>
             <p>
-              Update product prices, delete, edit and apply changes to all your
-              products in bulk 
+              Seamlessly transition from other software by easily importing all
+              your products and stock in bulk
+            </p>
+          </div>
+        </div>
+
+        <div class="extra-features__list__item">
+          <div class="extra-features__list__item__image">
+            <NuxtImg src="/img/icon/promonie-icon.svg" alt="icon" />
+          </div>
+
+          <div class="extra-features__list__item__content">
+            <h3>Bulk Edits</h3>
+            <p>
+              Easily update product prices, delete, or apply changes to all your
+              products at once with bulk editing options
             </p>
           </div>
         </div>

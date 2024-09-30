@@ -29,7 +29,7 @@
             classes="btn-primary"
             target="_blank"
           />
-          <HeaderCountrySelector />
+          <HeaderCountrySelector :globalIconSrc="globalIconSrc" />
         </div>
 
         <button class="mobile-menu-btn" @click="ToggleShowMenu">
@@ -65,6 +65,10 @@ const props = defineProps({
   logo: {
     type: String,
     default: "/img/logo.svg",
+  },
+  globalIconSrc: {
+    type: String,
+    default: "/img/icon/globe-icon.svg",
   },
 });
 

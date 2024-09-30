@@ -11,12 +11,11 @@
         </div>
 
         <div class="hero__inner__content">
-          <h1>Empowering Seamless Offline Sales</h1>
+          <h1>Sell Offline with Ease</h1>
           <p>
-            Unlock the power of seamless offline selling with the Prokip Desktop
-            App – a robust solution that not only comes at zero cost but also
-            redefines the way you manage sales without the need for constant
-            internet connectivity.
+            Manage your sales anytime, anywhere, without the need for the
+            internet, using the free Prokip Desktop App a cost-free tool
+            designed to enhance your business’s operations
           </p>
           <div class="hero__inner__content__actions">
             <nuxt-link

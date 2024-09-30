@@ -5,11 +5,11 @@
         <div class="simple-badge">Inventory Management</div>
 
         <div class="hero__inner__content">
-          <h1>Inventory Management for Businesses</h1>
+          <h1>Take Control of Your Inventory</h1>
           <p>
-            Prokip Inventory Management solution is a top-rated inventory
-            software that helps small and growing businesses streamline their
-            daily inventory operations with ease in Nigeria.
+            With Prokip, effortlessly manage your stock levels, track products,
+            and streamline your inventory operations to ensure your business
+            runs smoothly
           </p>
           <div class="hero__inner__content__actions">
             <nuxt-link

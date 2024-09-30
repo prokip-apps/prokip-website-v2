@@ -5,8 +5,9 @@
         <div class="features__inner__item__content">
           <h3>Recover Debts Faster</h3>
           <p>
-            Send timely reminders for upcoming payments and automate the
-            collection of overdue payments using SMS and email workflows
+            Automate payment collection and send timely reminders for upcoming
+            and overdue payments via SMS and email workflows, ensuring faster
+            debt recovery
           </p>
         </div>
         <div class="features__inner__item__image">
@@ -16,11 +17,10 @@
 
       <div class="features__inner__item">
         <div class="features__inner__item__content order-2">
-          <h3>Broadcast to Customers & Leads</h3>
+          <h3>Target Leads & Customers Directly</h3>
           <p>
-            Send targeted SMS and Email Campaigns to leads, customers and
-            Dynamic conditions like In-active customers, Invoice status and
-            more.
+            Send tailored SMS and email campaigns to leads and customers based
+            on dynamic conditions like inactivity or invoice status
           </p>
         </div>
         <div class="features__inner__item__image order-1">
@@ -33,10 +33,11 @@
 
       <div class="features__inner__item">
         <div class="features__inner__item__content">
-          <h3>Turn leads into paying customers</h3>
+          <h3>Convert Leads Into Customers</h3>
           <p>
-            Manage and convert more leads into loyal customers using followup
-            campaigns and workflows that nurture prospects and boost sales
+            Nurture and convert more leads into loyal customers with follow-up
+            campaigns and workflows designed to boost sales and build lasting
+            relationships
           </p>
         </div>
         <div class="features__inner__item__image">

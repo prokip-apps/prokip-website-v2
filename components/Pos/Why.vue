@@ -2,7 +2,7 @@
   <div class="integrated-solution crm-why">
     <div class="integrated-solution__inner">
       <div class="integrated-solution__inner__title">
-        <h2>Features</h2>
+        <h2>Why prokip Point of sales</h2>
       </div>
 
       <div class="integrated-solution__inner__features">
@@ -17,7 +17,8 @@
           <div class="integrated-solution__inner__features__content">
             <h3>Fast Checkout Process</h3>
             <p>
-              Sell and attend to multiple customers faster with fewer clicks.
+              Serve customers quickly and effortlessly with streamlined
+              transactions
             </p>
           </div>
         </div>
@@ -30,7 +31,8 @@
           <div class="integrated-solution__inner__features__content">
             <h3>Works Offline </h3>
             <p>
-              Never miss a sale because of  network issues or interruptions.
+              Never miss a sale—continue serving customers seamlessly, even
+              without an internet connection
             </p>
           </div>
         </div>
@@ -41,10 +43,11 @@
           </div>
 
           <div class="integrated-solution__inner__features__content">
-            <h3>100% Hardwares Support</h3>
+            <h3>100% Hardware Support</h3>
             <p>
-              Compatible with any type or models of printers, Barcode Scanners
-              and Cash drawers.
+              Compatible with all types and models of printers, barcode
+              scanners, and cash drawers, ensuring you can set up and operate
+              seamlessly
             </p>
           </div>
         </div>

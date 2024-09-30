@@ -3,10 +3,10 @@
     <div class="features__inner">
       <div class="features__inner__item">
         <div class="features__inner__item__content">
-          <h3>Fixed & Flexible Price options</h3>
+          <h3>Fixed & Flexible Pricing Options</h3>
           <p>
-            Sell with fixed Prices or as bargained with customers and define
-            your Separate  prices for retail, wholesales and others.
+            Set fixed prices or negotiate with customers while defining separate
+            rates for retail, wholesale, and more
           </p>
         </div>
         <div class="features__inner__item__image">
@@ -16,10 +16,11 @@
 
       <div class="features__inner__item">
         <div class="features__inner__item__content order-2">
-          <h3>Personalized Sales Registers</h3>
+          <h3>Custom Sales Registers</h3>
           <p>
-            Allow each of your Salesperson open and close registers after shifts
-            with detail records of their own transactions and time spent.
+            Empower each salesperson to independently manage their registers,
+            track transactions, and monitor their time with detailed records for
+            improved accountability
           </p>
         </div>
         <div class="features__inner__item__image order-1">
@@ -32,10 +33,10 @@
 
       <div class="features__inner__item">
         <div class="features__inner__item__content">
-          <h3>Multi Payments Methods & Options</h3>
+          <h3>Diverse Payment Options</h3>
           <p>
-            Accept Bank transfer, POS, cash payments and split payments across
-            two or more  payments methods in a single sale transaction.
+            Easily accept bank transfers, POS, cash payments, and even split
+            transactions across multiple payment methods in one seamless sale
           </p>
         </div>
         <div class="features__inner__item__image">
@@ -45,10 +46,10 @@
 
       <div class="features__inner__item">
         <div class="features__inner__item__content order-2">
-          <h3>Customizable Setting Options</h3>
+          <h3>Tailored for Your Business</h3>
           <p>
-            Customise the selling process the way your business already works
-            with setting options that put you in full control.
+            Customize your sales process to align with how your business
+            operates, giving you complete control over every transaction
           </p>
         </div>
         <div class="features__inner__item__image order-1">

@@ -2,7 +2,7 @@
   <div class="integrated-solution">
     <div class="integrated-solution__inner">
       <div class="integrated-solution__inner__title">
-        <h2>Built for...</h2>
+        <h2>Designed to Support...</h2>
       </div>
 
       <div class="integrated-solution__inner__features">
@@ -17,8 +17,8 @@
           <div class="integrated-solution__inner__features__content">
             <h3>Small & Medium Businesses</h3>
             <p>
-              Businesses who need to create, send, and track invoices to ensure
-              timely payments and get paid faster.
+              For businesses that need to create, send, and track invoices,
+              ensuring timely payments and getting paid faster
             </p>
           </div>
         </div>
@@ -31,8 +31,9 @@
           <div class="integrated-solution__inner__features__content">
             <h3>Freelancers & Service Providers</h3>
             <p>
-              Individuals or businesses who work on projects or contracts and
-              need to bill clients for services rendered.
+              Perfect for individuals and businesses that manage projects or
+              contracts, this solution simplifies invoicing, ensuring you bill
+              clients accurately and get paid on time
             </p>
           </div>
         </div>
@@ -45,8 +46,9 @@
           <div class="integrated-solution__inner__features__content">
             <h3>Companies & Large Enterprises</h3>
             <p>
-              Companies with complex billing needs, including managing multiple
-              clients, subscriptions, or recurring payments.
+              Ideal for businesses with complex billing needs, including
+              managing multiple clients, handling subscriptions, and automating
+              recurring payments efficiently
             </p>
           </div>
         </div>

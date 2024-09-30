@@ -14,7 +14,7 @@
 
           <div class="integrated-solution__inner__features__content">
             <h3>100% Free</h3>
-            <p>Included in Prokip for no additional fees and free for life.</p>
+            <p>Enjoy this feature as part of Prokip, with no hidden fees</p>
           </div>
         </div>
 
@@ -26,8 +26,8 @@
           <div class="integrated-solution__inner__features__content">
             <h3>Unified Solution</h3>
             <p>
-              Integrates with the core features of Prokip like Point of sales,
-              accounting and more into one single solution.
+              Seamlessly integrates Prokip’s core features, such as Point of
+              Sale, Accounting, and more, into one comprehensive solution
             </p>
           </div>
         </div>
@@ -38,10 +38,10 @@
           </div>
 
           <div class="integrated-solution__inner__features__content">
-            <h3>Grow faster</h3>
+            <h3>Elevate Your Business</h3>
             <p>
-              Helps you Automate customers relationship management, generate
-              more sales and accelerate growth.
+              Automate your customer relationship management, unlock new sales
+              opportunities, and fuel your growth
             </p>
           </div>
         </div>

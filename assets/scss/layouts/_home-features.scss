@@ -133,6 +133,12 @@
 			line-height: 6.8rem;
 			letter-spacing: -2px;
 			text-align: center;
+
+			@media (max-width: $tablet) {
+				font-size: 3.6rem;
+				line-height: 4.4rem;
+				letter-spacing: -2px;
+			}
 		}
 	}
 }

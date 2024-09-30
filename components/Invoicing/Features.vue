@@ -3,11 +3,11 @@
     <div class="features__inner">
       <div class="features__inner__item">
         <div class="features__inner__item__content">
-          <h3>Send beautiful & Customizable Invoices</h3>
+          <h3>Create Stunning, Customizable Invoices</h3>
           <p>
-            Create and send stunning, fully customizable invoices that look
-            polished and professional, ensuring you stand out while getting paid
-            on time.
+            Design and send eye-catching invoices tailored to your brand,
+            ensuring a professional appearance that helps you stand out and get
+            paid promptly
           </p>
         </div>
         <div class="features__inner__item__image">
@@ -17,11 +17,12 @@
 
       <div class="features__inner__item">
         <div class="features__inner__item__content order-2">
-          <h3>Automate invoice payments Follow Ups</h3>
+          <h3>Automate Invoice Payment Follow-Ups</h3>
           <p>
             Save time and ensure timely payments with automated follow-ups for
-            your invoices. Prokip automatically sends reminders to clients when
-            payments are due, 
+            your invoices. Timely reminders are sent to clients when payments
+            are due, helping you streamline the payment process and receive
+            payments promptly
           </p>
         </div>
         <div class="features__inner__item__image order-1">
@@ -34,11 +35,12 @@
 
       <div class="features__inner__item">
         <div class="features__inner__item__content">
-          <h3>Give your customers multiple payment options</h3>
+          <h3>Offer Your Customers Multiple Payment Options</h3>
           <p>
-            Create and send stunning, fully customizable invoices that look
-            polished and professional, ensuring you stand out while getting paid
-            on time.
+            Create stunning, fully customizable invoices that not only look
+            polished and professional but also allow your customers to choose
+            from various payment methods. This flexibility ensures you stand out
+            while facilitating timely payments
           </p>
         </div>
         <div class="features__inner__item__image">
@@ -53,9 +55,8 @@
         <div class="features__inner__item__content order-2">
           <h3>Get Paid in Multiple Currencies</h3>
           <p>
-            Save time and ensure timely payments with automated follow-ups for
-            your invoices. Prokip automatically sends reminders to clients when
-            payments are due, 
+            Accept payments in various currencies effortlessly, ensuring timely
+            transactions with automatic reminders for overdue invoices
           </p>
         </div>
         <div class="features__inner__item__image order-1">

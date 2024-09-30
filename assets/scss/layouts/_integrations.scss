@@ -49,6 +49,10 @@
 			gap: 2.4rem;
 			margin: 6.4rem 0;
 
+			@media (max-width: $tablet) {
+				justify-content: center;
+			}
+
 			&__item {
 				height: 32px;
 

@@ -1,11 +1,12 @@
 <template>
   <div class="pricing-hero">
     <div class="pricing-hero__content">
-      <h1>Efficient pricing solutions tailored for your business</h1>
+      <h1>Flexible Payment Plans That Fit Your Business</h1>
       <p>
-        Maximize your financial strategy with Prokip's tailored inventory and
-        accounting software. Benefit from flexible pricing solutions suitable
-        for all business types.
+        Choose from tailored payment options designed to meet your unique
+        business needs. Whether you're a startup or an established enterprise,
+        our plans are structured to help you maximize your investment without
+        compromise
       </p>
     </div>
   </div>

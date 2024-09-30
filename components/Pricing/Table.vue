@@ -6,8 +6,8 @@
 
         <div class="pricing-table__header-item">
           <div class="content">
-            <h3>Standard</h3>
-            <p>Ideal for growing businesses.</p>
+            <h3>Standard Plan</h3>
+            <p>Great for growing businesses</p>
           </div>
 
           <div class="image">
@@ -27,8 +27,8 @@
         <div class="pricing-table__header-item most-popular">
           <span class="most-popular-badge">Most Popular</span>
           <div class="content">
-            <h3>Premium</h3>
-            <p>For established businesses</p>
+            <h3>Premium Plan</h3>
+            <p>Great for established businesses</p>
           </div>
 
           <div class="image">
@@ -47,8 +47,8 @@
 
         <div class="pricing-table__header-item">
           <div class="content">
-            <h3>Ultimate</h3>
-            <p>For max. business impact.</p>
+            <h3>Ultimate Plan</h3>
+            <p>Maximize business impact with our most advanced features</p>
           </div>
 
           <div class="image">

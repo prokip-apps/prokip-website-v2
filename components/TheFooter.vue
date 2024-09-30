@@ -198,7 +198,9 @@
           </a>
         </div>
         <div class="footer__inner__bottom__right">
-          <HeaderCountrySelector />
+          <HeaderCountrySelector
+            globalIconSrc="/img/icon/global-icon-black.svg"
+          />
           <div class="to-top" @click="scrollToTop">
             <img src="/img/icon/arrow-up.svg" alt="arrow-up" />
           </div>

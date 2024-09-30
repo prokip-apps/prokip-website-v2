@@ -25,10 +25,11 @@
       <div class="prokip-solutions__inner__slider">
         <div class="prokip-solutions__inner__slider__item">
           <div class="prokip-solutions__inner__slider__item__content">
-            <h2>Sell faster online</h2>
+            <h2>Sell Faster Online</h2>
             <p>
-              Sell to customers faster and keep accurate records of every sales
-              transaction and inventory across all your business locations.
+              Efficiently sell to customers online while keeping accurate
+              records of every transaction and inventory across all your
+              business locations
             </p>
             <TheButton
               title="Download Desktop App"

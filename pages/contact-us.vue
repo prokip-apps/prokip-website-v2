@@ -5,14 +5,16 @@
         <div class="demo-page__inner__content">
           <h1>Contact Us</h1>
           <p>
-            We're here to help you with any questions or concerns you may have.
+            We're here to assist you with any questions or concerns you may have
           </p>
 
           <div class="contact">
             <nuxt-link to="/faq" class="contact_item">
               <NuxtImg src="/img/icon/question-icon.svg" alt="phone" />
               <h5>Have a questions?</h5>
-              <p>Find the answers to frequently asked questions here.</p>
+              <p>
+                Check out our FAQ section for quick answers to common inquiries
+              </p>
             </nuxt-link>
 
             <nuxt-link
@@ -21,8 +23,11 @@
               class="contact_item"
             >
               <NuxtImg src="/img/icon/blog-icon.svg" alt="phone" />
-              <h5>Prokip Blog</h5>
-              <p>Keep up with the latest news and trends.</p>
+              <h5>Stay Updated</h5>
+              <p>
+                Follow the Prokip Blog for the latest news and trends in
+                business management.
+              </p>
             </nuxt-link>
           </div>
         </div>

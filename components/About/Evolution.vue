@@ -2,10 +2,10 @@
   <div class="product-evolution">
     <div class="product-evolution__inner">
       <div class="product-evolution__title">
-        <h2>Product Evolution</h2>
+        <h2>Our Journey of Growth</h2>
         <p>
-          See how Prokip has grown our global presence, community and product
-          line over time.
+          Explore how Prokip has expanded its global footprint, strengthened its
+          community, and enhanced its product offerings since its inception
         </p>
       </div>
 

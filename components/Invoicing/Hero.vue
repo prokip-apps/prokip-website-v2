@@ -5,10 +5,10 @@
         <div class="simple-badge">Invoicing</div>
 
         <div class="hero__inner__content">
-          <h1>Simplify Invoicing & Accelerate Payments</h1>
+          <h1>Get Paid Faster with Smart Invoicing</h1>
           <p>
-            Send professional invoices, track payments in real-time, and get
-            paid faster with ease.
+            Create professional invoices and track payments in real-time for
+            quicker cash flow
           </p>
           <div class="hero__inner__content__actions">
             <nuxt-link

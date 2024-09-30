@@ -11,10 +11,11 @@
         </div>
 
         <div class="hero__inner__content">
-          <h1>Sell More & keep your customers happy </h1>
+          <h1>Boost Sales & Keep Customers Happy</h1>
           <p>
-            Prokip CRM helps you boost sales, build relationship with your
-            customers and keep them loyal to your business.
+            Prokip CRM helps you drive sales, nurture customer relationships,
+            and ensure long-term loyalty. Manage every interaction with ease,
+            keeping your customers satisfied and your business growing
           </p>
           <div class="hero__inner__content__actions">
             <nuxt-link

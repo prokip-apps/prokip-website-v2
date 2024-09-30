@@ -47,4 +47,32 @@
 			}
 		}
 	}
+
+	&__login {
+		margin-top: 2.4rem;
+		align-items: center;
+		background: #ffb600;
+		border-radius: 0.8rem;
+		color: #011635;
+		cursor: pointer;
+		display: flex;
+		font-size: 1.6rem;
+		font-weight: 400;
+		justify-content: center;
+		line-height: 148%;
+		min-width: 130px;
+		padding: 1.4rem 1.6rem;
+	}
+
+	.country-dropdown-wrapper {
+		margin-top: 2rem;
+
+		.country-selector {
+			border-color: #011635;
+
+			.gap span {
+				color: #011635;
+			}
+		}
+	}
 }

@@ -5,11 +5,11 @@
         <div class="simple-badge">Report</div>
 
         <div class="hero__inner__content">
-          <h1>Make better decisions that drive growth</h1>
+          <h1>Drive Growth with Informed Decisions</h1>
           <p>
-            Prokip’s Advance Reports helps you understands how your business is
-            performing with detailed reports on inventory, sales, customers and
-            all the activities in your business.
+            Prokip’s Advanced Reports provide deep insights into your business
+            performance, offering detailed analyses of inventory, sales,
+            customer interactions, and overall activity
           </p>
           <div class="hero__inner__content__actions">
             <nuxt-link
