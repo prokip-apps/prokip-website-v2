@@ -1,6 +1,10 @@
 <template>
   <div>
-    <HeaderMain classes="plain-header" logo="/img/logo-color.svg" />
+    <HeaderMain
+      classes="plain-header"
+      logo="/img/logo-color.svg"
+      globalIconSrc="/img/icon/global-icon-black.svg"
+    />
 
     <div class="policy-container">
       <div class="policy-container__inner">
