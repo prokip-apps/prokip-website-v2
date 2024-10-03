@@ -9,31 +9,25 @@
             <NuxtLink
               to="/terms-and-condition"
               class="policy-sidebar__item__link"
-              >Terms and Condition <span class="number">8</span></NuxtLink
+              >Terms and Condition <span class="number">14</span></NuxtLink
             >
 
-            <NuxtLink
-              to="/terms-and-condition"
-              class="policy-sidebar__item__link"
+            <NuxtLink to="/privacy-policy" class="policy-sidebar__item__link"
               >Privacy Policy <span class="number">8</span></NuxtLink
             >
 
             <div class="policy-sidebar__item__wrapper">
-              <NuxtLink
-                to="/terms-and-condition"
-                class="policy-sidebar__item__link"
-                >Data Protection<span class="number">8</span></NuxtLink
+              <NuxtLink to="/data-protection" class="policy-sidebar__item__link"
+                >Data Protection<span class="number">6</span></NuxtLink
               >
 
               <div class="policy-sidebar__item__sub">
-                <p>General</p>
-                <p>Prokip Services</p>
-                <p>Customer Data</p>
-                <p>Security</p>
-                <p>Support</p>
-                <p>Communications</p>
-                <p>Indemnification</p>
-                <p>How to contact us</p>
+                <p>Compliance</p>
+                <p>Data Processing Agreement</p>
+                <p>Data Transfer</p>
+                <p>Data Subject Rights</p>
+                <p>Breach Notification</p>
+                <p>Cooperation</p>
               </div>
             </div>
           </div>
@@ -42,200 +36,62 @@
         <div class="policy-content">
           <div class="policy-content__head">
             <SectionTitle title="Data Protection" />
-            <h2>Personal Terms</h2>
-            <span>Last updated on September 15, 2023</span>
-
-            <NuxtLink
-              to="/terms-and-condition"
-              class="policy-content__head__download"
-            >
-              <NuxtImg src="/img/icon/download-icon.svg" alt="Download" />
-              Download PDF
-            </NuxtLink>
+            <h2>Data Protection Policy</h2>
+            <span>Last updated on October 3, 2024</span>
           </div>
 
           <div class="policy-content__body">
-            <section class="policy-content__body__section">
-              <h3>General</h3>
-              <h5>Sed ut perspiciatis unde</h5>
-              <p>
-                Aliquam senectus neque ut id eget consectetur dictum. Donec
-                posuere pharetra odio consequat scelerisque et, nunc tortor.
-                Eget quis mi enim, leo lacinia pharetra, semper. Eget in
-                volutpat mollis at volutpat lectus velit, sed auctor. Porttitor
-                fames arcu quis fusce augue enim. Quis at habitant diam at.
-                Suscipit tristique risus, at donec. In turpis vel et quam
-                imperdiet. Ipsum molestie aliquet sodales id est ac volutpat.
-              </p>
-
-              <ul>
+            <section>
+              <ol>
                 <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
+                  <h3>Compliance</h3>
+                  <p>
+                    Prokip is committed to complying with all applicable data
+                    protection laws.
+                  </p>
                 </li>
-
                 <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
+                  <h3>Data Processing Agreement</h3>
+                  <p>
+                    Prokip may require SME Users to enter into a Data Processing
+                    Agreement (DPA) to formalize the parties' obligations and
+                    rights regarding the processing of personal data.
+                  </p>
                 </li>
-
                 <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
+                  <h3>Data Transfer</h3>
+                  <p>
+                    If Prokip transfers personal data to countries outside the
+                    European Economic Area (EEA) or other jurisdictions with
+                    different data protection laws, it will ensure that
+                    appropriate safeguards are in place to protect the data.
+                  </p>
                 </li>
-
                 <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
+                  <h3>Data Subject Rights</h3>
+                  <p>
+                    Prokip will assist SME Users in fulfilling their obligations
+                    to data subjects regarding their rights to access, rectify,
+                    erase, restrict processing, object to processing, and data
+                    portability.
+                  </p>
                 </li>
-              </ul>
-
-              <p>
-                Ipsum sit mattis nulla quam nulla. Gravida id gravida ac enim
-                mauris id. Non pellentesque congue eget consectetur turpis.
-                Sapien, dictum molestie sem tempor. Diam elit, orci, tincidunt
-                aenean tempus.
-              </p>
-            </section>
-
-            <section class="policy-content__body__section">
-              <h3>Prokip Services</h3>
-              <h5>Sed ut perspiciatis unde</h5>
-              <p>
-                Aliquam senectus neque ut id eget consectetur dictum. Donec
-                posuere pharetra odio consequat scelerisque et, nunc tortor.
-                Eget quis mi enim, leo lacinia pharetra, semper. Eget in
-                volutpat mollis at volutpat lectus velit, sed auctor. Porttitor
-                fames arcu quis fusce augue enim. Quis at habitant diam at.
-                Suscipit tristique risus, at donec. In turpis vel et quam
-                imperdiet. Ipsum molestie aliquet sodales id est ac volutpat.
-              </p>
-
-              <ul>
                 <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
+                  <h3>Breach Notification</h3>
+                  <p>
+                    Prokip will promptly notify SME Users of any personal data
+                    breaches that may affect their rights or interests.
+                  </p>
                 </li>
-
                 <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
+                  <h3>Cooperation</h3>
+                  <p>
+                    Prokip will cooperate with relevant data protection
+                    authorities and SME Users to address any data protection
+                    concerns or complaints.
+                  </p>
                 </li>
-
-                <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
-                </li>
-
-                <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
-                </li>
-              </ul>
-
-              <p>
-                Ipsum sit mattis nulla quam nulla. Gravida id gravida ac enim
-                mauris id. Non pellentesque congue eget consectetur turpis.
-                Sapien, dictum molestie sem tempor. Diam elit, orci, tincidunt
-                aenean tempus.
-              </p>
-            </section>
-
-            <section class="policy-content__body__section">
-              <h3>Customer Data</h3>
-              <h5>Sed ut perspiciatis unde</h5>
-              <p>
-                Aliquam senectus neque ut id eget consectetur dictum. Donec
-                posuere pharetra odio consequat scelerisque et, nunc tortor.
-                Eget quis mi enim, leo lacinia pharetra, semper. Eget in
-                volutpat mollis at volutpat lectus velit, sed auctor. Porttitor
-                fames arcu quis fusce augue enim. Quis at habitant diam at.
-                Suscipit tristique risus, at donec. In turpis vel et quam
-                imperdiet. Ipsum molestie aliquet sodales id est ac volutpat.
-              </p>
-
-              <ul>
-                <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
-                </li>
-
-                <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
-                </li>
-
-                <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
-                </li>
-
-                <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
-                </li>
-              </ul>
-
-              <p>
-                Ipsum sit mattis nulla quam nulla. Gravida id gravida ac enim
-                mauris id. Non pellentesque congue eget consectetur turpis.
-                Sapien, dictum molestie sem tempor. Diam elit, orci, tincidunt
-                aenean tempus.
-              </p>
-            </section>
-
-            <section class="policy-content__body__section">
-              <h3>Security</h3>
-              <h5>Sed ut perspiciatis unde</h5>
-              <p>
-                Aliquam senectus neque ut id eget consectetur dictum. Donec
-                posuere pharetra odio consequat scelerisque et, nunc tortor.
-                Eget quis mi enim, leo lacinia pharetra, semper. Eget in
-                volutpat mollis at volutpat lectus velit, sed auctor. Porttitor
-                fames arcu quis fusce augue enim. Quis at habitant diam at.
-                Suscipit tristique risus, at donec. In turpis vel et quam
-                imperdiet. Ipsum molestie aliquet sodales id est ac volutpat.
-              </p>
-
-              <ul>
-                <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
-                </li>
-
-                <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
-                </li>
-
-                <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
-                </li>
-
-                <li>
-                  <strong>Mi tincidunt elit,</strong> id quisque ligula ac diam,
-                  amet.
-                </li>
-              </ul>
-
-              <p>
-                Ipsum sit mattis nulla quam nulla. Gravida id gravida ac enim
-                mauris id. Non pellentesque congue eget consectetur turpis.
-                Sapien, dictum molestie sem tempor. Diam elit, orci, tincidunt
-                aenean tempus.
-              </p>
-            </section>
-
-            <section class="policy-content__body__section">
-              <h3>How to contact us</h3>
-              <p>
-                If you have any questions about this Personal Terms, please
-                contact us at
-                <a href="mailto:info@prokip.com" class="link-underline"
-                  >info@prokip.com</a
-                >
-              </p>
+              </ol>
             </section>
           </div>
         </div>
