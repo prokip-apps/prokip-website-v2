@@ -46,9 +46,13 @@
         </div>
 
         <div class="policy-content">
+          <div class="policy-content__head">
+            <SectionTitle title="Data Protection" />
+            <h2>Data Protection Policy</h2>
+            <span>Last updated on October 3, 2024</span>
+          </div>
           <div class="policy-content__body">
             <section>
-              <h2>Terms and Conditions</h2>
               <ol>
                 <li>
                   <h3>Data Privacy and Security</h3>
