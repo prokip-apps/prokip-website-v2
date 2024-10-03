@@ -11,7 +11,7 @@
           </p>
         </div>
         <div class="features__inner__item__image">
-          <NuxtImg src="/img/product-history.png" alt="Customize Invoice" />
+          <NuxtImg src="/img/restock-inventory.png" alt="Customize Invoice" />
         </div>
       </div>
 
@@ -41,7 +41,7 @@
         </div>
         <div class="features__inner__item__image">
           <NuxtImg
-            src="/img/stock-transfer.png"
+            src="/img/stock-transfer-inventory.png"
             alt="Multiple Payment Invoice"
           />
         </div>
@@ -57,7 +57,7 @@
         </div>
         <div class="features__inner__item__image order-1">
           <NuxtImg
-            src="/img/stock-reconciliation.png"
+            src="/img/stock-adjustment-inventory.png"
             alt="Multiple Payment Invoice"
           />
         </div>
@@ -73,7 +73,7 @@
         </div>
         <div class="features__inner__item__image">
           <NuxtImg
-            src="/img/inventory-insight.png"
+            src="/img/sales-insight-inventory.png"
             alt="Multiple Payment Invoice"
           />
         </div>

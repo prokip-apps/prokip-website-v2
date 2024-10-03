@@ -1,9 +1,9 @@
 <template>
   <div class="home-features">
     <div class="home-features__inner">
-      <div class="home-features__title">
+      <!-- <div class="home-features__title">
         <h2>All you need in one place</h2>
-      </div>
+      </div> -->
 
       <div class="home-features__inner__item">
         <div class="home-features__inner__item__content">
