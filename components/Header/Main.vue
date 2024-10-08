@@ -79,7 +79,7 @@ const products = [
     text: "lorem ipsum dolor mans knshja skwa",
   },
   {
-    title: "invoice",
+    title: "Invoicing",
     link: "/invoice",
     text: "lorem ipsum dolor mans knshja skwa",
   },
