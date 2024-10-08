@@ -9,7 +9,7 @@
             <NuxtImg src="/img/icon/arrow-right.svg" alt="arrow-right" />
           </NuxtLink>
         </div>
-        <h2>Cutting-edge <span>payment solutions</span></h2>
+        <h2>In-Built Payment <span>Solutions</span></h2>
         <p>
           Our integrated payment system empowers you to seamlessly manage
           transactions, whether online, in-store, or across various business
@@ -21,19 +21,6 @@
       </div>
 
       <div class="promonie__inner__features">
-        <div class="promonie__inner__features__item">
-          <div class="promonie__inner__features__item__icon">
-            <NuxtImg src="/img/icon/promonie-icon.svg" alt="Payment" />
-          </div>
-          <div class="promonie__inner__features__item__content">
-            <h3>In-Built Payment Solution </h3>
-            <p>
-              Easily pay and accept online and in-store payments for all your
-              sales, even across borders and in multiple currencies.
-            </p>
-          </div>
-        </div>
-
         <div class="promonie__inner__features__item">
           <div class="promonie__inner__features__item__icon">
             <NuxtImg src="/img/icon/promonie-icon.svg" alt="Payment" />
@@ -105,7 +92,7 @@
           </div>
         </div>
 
-        <div class="promonie__inner__features__item full-width">
+        <div class="promonie__inner__features__item">
           <div class="promonie__inner__features__item__icon">
             <NuxtImg src="/img/icon/promonie-icon.svg" alt="Payment" />
           </div>

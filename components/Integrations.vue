@@ -5,9 +5,8 @@
         <SectionTitle title="Integrations" />
         <h2>Connect Prokip with your favourite platforms</h2>
         <p>
-          Prokip seamlessly integrates with popular e-commerce, lead generation,
-          membership and LMS plugins. Connect your tools now and unlock
-          unlimited automation possibilities. No add-ons needed!
+          Prokip seamlessly integrates with popular e-commerce and marketing
+          platforms
         </p>
       </div>
 
