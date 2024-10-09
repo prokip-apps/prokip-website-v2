@@ -2,7 +2,7 @@
   <div class="integrated-solution crm-why">
     <div class="integrated-solution__inner">
       <div class="integrated-solution__inner__title">
-        <h2>Why you need Prokip</h2>
+        <h2>Why Prokip Inventory Manager</h2>
       </div>
 
       <div class="integrated-solution__inner__features">
@@ -30,7 +30,7 @@
           </div>
 
           <div class="integrated-solution__inner__features__content">
-            <h3>Restock & Keep track of your purchases </h3>
+            <h3>Keep track of your purchases</h3>
             <p>
               Update low stocks with new purchases and keeps records of all
               transactions made from suppliers across all your business
