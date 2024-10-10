@@ -26,7 +26,10 @@
 
         <div class="integrated-solution__inner__features__item">
           <div class="integrated-solution__inner__features__image">
-            <NuxtImg src="/img/purchases.png" alt="Larger Enterprise" />
+            <NuxtImg
+              src="/img/keep-track-of-purchase.webp"
+              alt="Larger Enterprise"
+            />
           </div>
 
           <div class="integrated-solution__inner__features__content">
@@ -41,7 +44,7 @@
 
         <div class="integrated-solution__inner__features__item">
           <div class="integrated-solution__inner__features__image">
-            <NuxtImg src="/img/inventory-stock-transfer.png" alt="Freelancer" />
+            <NuxtImg src="/img/transfer-stock.png" alt="Freelancer" />
           </div>
 
           <div class="integrated-solution__inner__features__content">

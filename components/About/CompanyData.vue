@@ -2,17 +2,17 @@
   <div class="company-data">
     <div class="company-data__inner">
       <div class="company-data__inner__item">
-        <h2><VueJsCounter end="10"></VueJsCounter>M+</h2>
-        <p>Personal users</p>
+        <h2><VueJsCounter end="9"></VueJsCounter>K+</h2>
+        <p>Users</p>
       </div>
 
       <div class="company-data__inner__item">
-        <h2><VueJsCounter end="200"></VueJsCounter>k+</h2>
-        <p>Business users</p>
+        <h2><VueJsCounter end="80"></VueJsCounter>+</h2>
+        <p>State/ Regions</p>
       </div>
 
       <div class="company-data__inner__item">
-        <h2><VueJsCounter end="3"></VueJsCounter></h2>
+        <h2><VueJsCounter end="5"></VueJsCounter></h2>
         <p>Countries</p>
       </div>
     </div>
