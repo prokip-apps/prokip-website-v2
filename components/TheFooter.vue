@@ -7,10 +7,20 @@
             <div class="logo">
               <img src="/img/logo-color.svg" alt="logo" />
             </div>
-            <!-- <p>
-              Be the first to receive all the recent updates, articles, and
-              valuable materials.
-            </p> -->
+            <p>
+              Prokip is an all-in-one business management solution integrating
+              bookkeeping, Point of sales system, inventory Management,
+              Accounting, CRM, and More tailored for businesses like yours in
+              Africa.
+            </p>
+
+            <NuxtLink to="/pos-desktop-app">
+              <NuxtImg
+                src="/img/windows-button.webp"
+                alt="Download Desktop App"
+                width="180"
+              />
+            </NuxtLink>
           </div>
           <!-- <div class="footer__inner__newletter-email">
             <form action="">
