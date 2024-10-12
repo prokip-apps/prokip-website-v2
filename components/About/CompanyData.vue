@@ -2,7 +2,7 @@
   <div class="company-data">
     <div class="company-data__inner">
       <div class="company-data__inner__item">
-        <h2><VueJsCounter end="9"></VueJsCounter>K+</h2>
+        <h2><VueJsCounter end="26"></VueJsCounter>K+</h2>
         <p>Users</p>
       </div>
 

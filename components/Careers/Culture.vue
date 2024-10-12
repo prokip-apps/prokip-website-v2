@@ -8,7 +8,33 @@
         supportive, dynamic workplace where your career can thrive.
       </p>
 
-      <div class="video-player">
+      <blockquote class="quote">
+        <span
+          >At Prokip, we believe that our people are our greatest asset.</span
+        >
+
+        <span>
+          Working at Prokip means being part of a culture that celebrates
+          creativity and embraces challenges.
+        </span>
+
+        <span>
+          You’ll find a supportive atmosphere where your skills are nurtured,
+          your contributions are recognized, and your potential is maximized.
+        </span>
+
+        <span>
+          We are committed to your development, offering ongoing training and
+          career advancement opportunities to help you thrive in your role.
+        </span>
+
+        <span>
+          Join us at Prokip and be part of a team that is reshaping the business
+          landscape in Africa
+        </span>
+      </blockquote>
+
+      <!-- <div class="video-player">
         <div class="video-player__play" @click="openVideoModal">
           <NuxtImg src="/img/icon/play-icon-bg.svg" alt="Play" />
         </div>
@@ -22,7 +48,7 @@
             <div class="video-player__control__timeline__progress"></div>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>

@@ -27,7 +27,11 @@
       <div class="slider-container" ref="sliderContainer">
         <div
           class="slider"
-          :style="{ transform: `translateX(-${(currentSlide - 1) * 100}%)` }"
+          :style="{
+            transform: `translateX(-${
+              (currentSlide - 1) * (110 / visibleSlides)
+            }%)`,
+          }"
         >
           <div v-for="leader in leaders" :key="leader.name" class="slide">
             <div class="card">
@@ -40,9 +44,9 @@
               <div class="card-content">
                 <h2>{{ leader.name }}</h2>
                 <p>{{ leader.role }}</p>
-                <a href="#" :aria-label="`${leader.name}'s LinkedIn profile`">
+                <!-- <a href="#" :aria-label="`${leader.name}'s LinkedIn profile`">
                   <Icon name="lucide:linkedin" class="linkedin-icon" />
-                </a>
+                </a> -->
               </div>
             </div>
           </div>
@@ -53,7 +57,7 @@
 </template>
 
 <script setup>
-import { ref, computed } from "vue";
+import { ref, computed, onMounted, onUnmounted } from "vue";
 
 const leaders = [
   {
@@ -77,14 +81,35 @@ const leaders = [
     image: "/img/lucy.png",
   },
   {
-    name: "Faith Enyinn",
+    name: "Lucky Elohor 0.",
+    role: "Chief Marketing Officer",
+    image: "/img/elohor.png",
+  },
+  {
+    name: "Faith Enyinnaya ",
     role: "Head of Sales",
-    image: "/img/blank.png",
+    image: "/img/faith.png",
   },
 ];
 
 const currentSlide = ref(1);
 const sliderContainer = ref(null);
+const containerWidth = ref(0);
+
+const updateContainerWidth = () => {
+  if (sliderContainer.value) {
+    containerWidth.value = sliderContainer.value.offsetWidth;
+  }
+};
+
+onMounted(() => {
+  updateContainerWidth();
+  window.addEventListener("resize", updateContainerWidth);
+});
+
+onUnmounted(() => {
+  window.removeEventListener("resize", updateContainerWidth);
+});
 
 const nextSlide = () => {
   if (currentSlide.value < leaders.length) {
@@ -99,14 +124,10 @@ const prevSlide = () => {
 };
 
 const visibleSlides = computed(() => {
-  if (process.client) {
-    const containerWidth = sliderContainer.value?.offsetWidth || 0;
-    if (containerWidth >= 1280) return 4;
-    if (containerWidth >= 1024) return 4;
-    if (containerWidth >= 768) return 3;
-    if (containerWidth >= 640) return 2;
-    return 1;
-  }
+  if (containerWidth.value >= 1280) return 4;
+  if (containerWidth.value >= 1024) return 4;
+  if (containerWidth.value >= 768) return 3;
+  if (containerWidth.value >= 640) return 2;
   return 1;
 });
 </script>

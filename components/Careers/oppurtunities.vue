@@ -7,7 +7,7 @@
           <h2>Find the right role for you</h2>
         </div>
         <div class="right">
-          <h3>We have 72 open positions</h3>
+          <h3>We have 3 open positions</h3>
         </div>
       </div>
 
@@ -23,76 +23,14 @@
               <input type="checkbox" id="all" checked />
               <label for="all">All</label>
             </div>
-
-            <div class="category">
-              <input type="checkbox" id="analytics" />
-              <label for="analytics">Analytics</label>
-            </div>
-
-            <div class="category">
-              <input type="checkbox" id="business-development" />
-              <label for="business-development">Business Development</label>
-            </div>
-
-            <div class="category">
-              <input type="checkbox" id="communications" />
-              <label for="communications">Communications</label>
-            </div>
-
-            <div class="category">
-              <input type="checkbox" id="design" />
-              <label for="design">Design</label>
-            </div>
-
-            <div class="category">
-              <input type="checkbox" id="engineering-data" />
-              <label for="engineering-data">Engineering & Data</label>
-            </div>
-
-            <div class="category">
-              <input type="checkbox" id="finance" />
-              <label for="finance">Finance</label>
-            </div>
-
-            <div class="category">
-              <input type="checkbox" id="hr-culture" />
-              <label for="hr-culture">HR & Culture</label>
-            </div>
-
-            <div class="category">
-              <input type="checkbox" id="legal" />
-              <label for="legal">Legal</label>
-            </div>
-
-            <div class="category">
-              <input type="checkbox" id="marketing" />
-              <label for="marketing">Marketing</label>
-            </div>
-
-            <div class="category">
-              <input type="checkbox" id="operations" />
-              <label for="operations">Operations</label>
-            </div>
-
-            <div class="category">
-              <input type="checkbox" id="product" />
-              <label for="product">Product</label>
-            </div>
-
-            <div class="category">
-              <input type="checkbox" id="sales-account-management" />
-              <label for="sales-account-management"
-                >Sales & Account Management</label
-              >
-            </div>
           </div>
 
           <div class="careers-oppurtunities__locations">
             <div class="title">Locations</div>
             <div class="locations">
               <span>All</span>
-              <span>Lagos</span>
-              <span>Kigali</span>
+              <!-- <span>Lagos</span>
+              <span>Kigali</span> -->
             </div>
           </div>
         </div>
@@ -103,19 +41,14 @@
           </form>
 
           <div class="careers-oppurtunities__jobs">
-            <nuxt-link
-              to="/careers/job-details"
-              class="careers-oppurtunities__jobs-item"
-            >
+            <nuxt-link to="" class="careers-oppurtunities__jobs-item">
               <div class="job__title">
-                <h4>
-                  Business Operations Manager - Saving, Lending & Insurance
-                </h4>
+                <h4>Product Manager</h4>
               </div>
 
               <div class="job__info">
-                <div class="title">Operations</div>
-                <div class="location">Lagos</div>
+                <div class="title">Product</div>
+                <div class="location">Nigeria</div>
               </div>
             </nuxt-link>
 
@@ -124,14 +57,12 @@
               class="careers-oppurtunities__jobs-item"
             >
               <div class="job__title">
-                <h4>
-                  Business Operations Manager - Saving, Lending & Insurance
-                </h4>
+                <h4>Node.js Backend Developer</h4>
               </div>
 
               <div class="job__info">
-                <div class="title">Operations</div>
-                <div class="location">Lagos</div>
+                <div class="title">Engineering</div>
+                <div class="location">Nigeria</div>
               </div>
             </nuxt-link>
 
@@ -140,32 +71,12 @@
               class="careers-oppurtunities__jobs-item"
             >
               <div class="job__title">
-                <h4>
-                  Business Operations Manager - Saving, Lending & Insurance
-                </h4>
+                <h4>Next.js Frontend Developer</h4>
               </div>
 
               <div class="job__info">
-                <div class="title">Operations</div>
-                <div class="location">Lagos</div>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link
-              to="/careers/job-details"
-              class="careers-oppurtunities__jobs-item"
-            >
-              <div>
-                <div class="job__title">
-                  <h4>
-                    Business Operations Manager - Saving, Lending & Insurance
-                  </h4>
-                </div>
-
-                <div class="job__info">
-                  <div class="title">Operations</div>
-                  <div class="location">Lagos</div>
-                </div>
+                <div class="title">Engineering</div>
+                <div class="location">Nigeria</div>
               </div>
             </nuxt-link>
           </div>

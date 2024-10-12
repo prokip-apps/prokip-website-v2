@@ -9,7 +9,7 @@
     <AboutJourney />
     <AboutMission />
     <AboutCompanyData />
-    <AboutEvolution />
+    <!-- <AboutEvolution /> -->
     <AboutLeadership />
     <AboutCareers />
   </div>
