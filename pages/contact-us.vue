@@ -81,7 +81,7 @@
             <div class="contact-item">
               <div class="head">
                 <NuxtImg src="/img/icon/ng-flag.svg" alt="phone" />
-                <h5>Nigeria</h5>
+                <h5>Nigeria (HQ)</h5>
               </div>
               <nuxt-link to="tel:+2341234567890" class="contact-link"
                 >+234 123 456 7890</nuxt-link
@@ -93,8 +93,8 @@
                 <NuxtImg src="/img/icon/gh-flag.svg" alt="phone" />
                 <h5>Ghana</h5>
               </div>
-              <nuxt-link to="tel:+11234567890" class="contact-link"
-                >+1 123 456 7890</nuxt-link
+              <nuxt-link to="tel:+2330551135479" class="contact-link"
+                >+233 055 113 5479</nuxt-link
               >
             </div>
 
@@ -103,18 +103,28 @@
                 <NuxtImg src="/img/icon/ke-flag.svg" alt="phone" />
                 <h5>Kenya</h5>
               </div>
-              <nuxt-link to="tel:+441234567890" class="contact-link"
-                >+44 123 456 7890</nuxt-link
+              <nuxt-link to="tel:+254715231635" class="contact-link"
+                >+254 715 231 635</nuxt-link
               >
             </div>
 
             <div class="contact-item">
               <div class="head">
-                <NuxtImg src="/img/icon/us-flag.svg" alt="phone" />
-                <h5>Uniited States</h5>
+                <NuxtImg src="/img/icon/ug-flag.svg" alt="phone" />
+                <h5>Uganda</h5>
               </div>
-              <nuxt-link to="tel:+491234567890" class="contact-link"
-                >+49 123 456 7890</nuxt-link
+              <nuxt-link to="tel:+2567672028056" class="contact-link"
+                >+256 767 202 8056</nuxt-link
+              >
+            </div>
+
+            <div class="contact-item">
+              <div class="head">
+                <NuxtImg src="/img/icon/rw-flag.svg" alt="phone" />
+                <h5>Rwanda</h5>
+              </div>
+              <nuxt-link to="tel:+250793486509" class="contact-link"
+                >+250 793 486 509</nuxt-link
               >
             </div>
           </div>

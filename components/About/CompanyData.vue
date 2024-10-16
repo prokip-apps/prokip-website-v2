@@ -12,8 +12,8 @@
       </div>
 
       <div class="company-data__inner__item">
-        <h2><VueJsCounter end="5"></VueJsCounter></h2>
-        <p>Countries</p>
+        <h2><VueJsCounter end="1"></VueJsCounter>.8M+</h2>
+        <p>Monthly Transactions</p>
       </div>
     </div>
   </div>

@@ -1,0 +1,32 @@
+.tab-container {
+	display: flex;
+	gap: 0.8rem;
+	margin: 3.6rem auto 0;
+	background: #f0f0f0;
+	border-radius: 5.4rem;
+	padding: 0.4rem 0.8rem;
+}
+
+.tab-btn {
+	background: none;
+	border: none;
+	border-radius: 5.4rem;
+	padding: 1.2rem 1.6rem;
+	cursor: pointer;
+	font-size: 1.6rem;
+	font-weight: 500;
+	letter-spacing: -0.25px;
+	line-height: 24px;
+	color: #000a19;
+	transition: all 0.3s ease-in-out;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.8rem;
+
+	&.active {
+		background: #011635;
+		box-shadow: 0px 1px 2px 0px #1018280f;
+		color: #fff;
+	}
+}

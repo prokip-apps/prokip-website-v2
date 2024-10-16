@@ -1,10 +1,7 @@
 <template>
   <div class="trusted-by">
     <div class="trusted-by__inner">
-      <span
-        >Trusted and Loved by Businesses of All Types and Sizes Across
-        Africa</span
-      >
+      <span>❤️ & Trusted by:</span>
       <div class="trusted-by__inner__logos">
         <vue-marquee-slider id="marquee-slider" :speed="50000">
           <div
