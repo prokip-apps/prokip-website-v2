@@ -5,6 +5,11 @@
 	background: #f0f0f0;
 	border-radius: 5.4rem;
 	padding: 0.4rem 0.8rem;
+	width: fit-content;
+
+	@media (max-width: $tablet) {
+		padding: 0.4rem;
+	}
 }
 
 .tab-btn {
@@ -23,6 +28,11 @@
 	align-items: center;
 	justify-content: center;
 	gap: 0.8rem;
+
+	@media (max-width: $tablet) {
+		font-size: 1.4rem;
+		padding: 0.8rem;
+	}
 
 	&.active {
 		background: #011635;

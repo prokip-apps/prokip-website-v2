@@ -30,7 +30,7 @@
               />
             </svg>
 
-            <span>Manage Business</span>
+            <span>Manage <span class="hide-m">Business</span></span>
           </button>
           <button
             class="tab-btn"
@@ -61,7 +61,7 @@
               />
             </svg>
 
-            <span>Track Transactions</span>
+            <span>Track <span class="hide-m">Transactions</span></span>
           </button>
           <button
             class="tab-btn"
@@ -90,7 +90,7 @@
               />
             </svg>
 
-            <span>Grow Business </span>
+            <span>Grow <span class="hide-m">Business</span> </span>
           </button>
         </div>
 
