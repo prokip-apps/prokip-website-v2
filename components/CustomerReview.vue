@@ -16,7 +16,17 @@
       </div>
 
       <div class="customer-review__inner__video">
-        <div
+        <iframe
+          width="100%"
+          height="100%"
+          src="https://www.youtube.com/embed/WXfLnZ-iyYA"
+          title="What businesses are saying about Prokip"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+        <!-- <div
           class="customer-review__inner__video__play"
           @click="openVideoModal"
         >
@@ -37,11 +47,11 @@
               class="customer-review__inner__video__control__timeline__progress"
             ></div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
 
-    <VideoModal v-if="isVideoModalOpen" @close="closeVideoModal" />
+    <!-- <VideoModal v-if="isVideoModalOpen" @close="closeVideoModal" /> -->
   </div>
 </template>
 
