@@ -340,3 +340,22 @@
 	transform: translate(-50%, -50%);
 	z-index: 1;
 }
+
+.pricing-select-button-sec {
+	width: 100%;
+	background: transparent;
+	border: 1px solid $black;
+	height: 44px;
+	border-radius: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: inherit;
+	font-size: 1.5rem;
+	color: $black;
+	letter-spacing: -0.25px;
+	font-weight: 500;
+	line-height: 2.4rem;
+	cursor: pointer;
+	margin-top: 1.5rem;
+}

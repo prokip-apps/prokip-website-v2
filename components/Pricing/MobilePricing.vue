@@ -18,8 +18,14 @@
             to="https://app.prokip.co/register"
             class="pricing-select-button"
           >
-            Select</nuxt-link
+            Get Started Now
+          </nuxt-link>
+          <nuxt-link
+            to="https://app.prokip.co/register"
+            class="pricing-select-button-sec"
           >
+            Start 30 Days Free Trial
+          </nuxt-link>
         </div>
 
         <div class="mobile-pricing__item-features">
@@ -86,7 +92,7 @@
           </div>
 
           <div class="row">
-            <div class="feature">Advanced accounting</div>
+            <div class="feature">Core Accounting</div>
             <div class="value">—</div>
           </div>
         </div>
@@ -110,8 +116,14 @@
             to="https://app.prokip.co/register"
             class="pricing-select-button"
           >
-            Select</nuxt-link
+            Get Started Now
+          </nuxt-link>
+          <nuxt-link
+            to="https://app.prokip.co/register"
+            class="pricing-select-button-sec"
           >
+            Start 30 Days Free Trial
+          </nuxt-link>
         </div>
 
         <div class="mobile-pricing__item-features">
@@ -182,7 +194,7 @@
           </div>
 
           <div class="row">
-            <div class="feature">Advanced accounting</div>
+            <div class="feature">Core Accounting</div>
             <div class="value">
               <NuxtImg src="/img/icon/circle-check.svg" alt="check" />
             </div>
@@ -207,8 +219,14 @@
             to="https://app.prokip.co/register"
             class="pricing-select-button"
           >
-            Select</nuxt-link
+            Get Started Now
+          </nuxt-link>
+          <nuxt-link
+            to="https://app.prokip.co/register"
+            class="pricing-select-button-sec"
           >
+            Start 30 Days Free Trial
+          </nuxt-link>
         </div>
 
         <div class="mobile-pricing__item-features">
@@ -279,7 +297,7 @@
           </div>
 
           <div class="row">
-            <div class="feature">Advanced accounting</div>
+            <div class="feature">Core Accounting</div>
             <div class="value">
               <NuxtImg src="/img/icon/circle-check.svg" alt="check" />
             </div>

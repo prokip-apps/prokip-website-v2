@@ -57,8 +57,14 @@
               </div>
 
               <div class="form-group">
-                <label for="name">Message</label>
-                <textarea name="" id=""></textarea>
+                <label for="name">Country</label>
+                <select name="" id="">
+                  <option value="Nigeria">Nigeria</option>
+                  <option value="Ghana">Ghana</option>
+                  <option value="Kenya">Kenya</option>
+                  <option value="Uganda">Uganda</option>
+                  <option value="Rwanda">Rwanda</option>
+                </select>
               </div>
             </form>
 

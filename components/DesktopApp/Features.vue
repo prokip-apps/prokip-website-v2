@@ -2,9 +2,7 @@
   <div class="prokip-solutions">
     <div class="prokip-solutions__inner">
       <div class="prokip-solutions__inner__title">
-        <h2>
-          Power your business to success with Prokip's all in one Solution.
-        </h2>
+        <h2>Power your retail and wholesale business to success</h2>
 
         <!-- <div class="prokip-solutions__inner__nav">
           <button class="prokip-solutions__inner__nav__prev">

@@ -11,7 +11,7 @@
         </div> -->
 
         <div class="hero__inner__content">
-          <h1>Transform the Way You Manage Your <span>Business</span></h1>
+          <h1>Manage and Grow your business <span>with ease</span></h1>
           <p>
             Prokip is your all-in-one business solution, designed to simplify
             daily operations by helping you manage sales, track inventory, and

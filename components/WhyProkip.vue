@@ -84,8 +84,8 @@
             <h3>Simple and Robust</h3>
             <p>
               Despite its powerful capabilities, Prokip is recognized as one of
-              the simplest applications on the market, trusted by over 22,000
-              businesses.
+              the simplest applications on the market, trusted by over 26k+
+              users.
             </p>
           </div>
         </div>

@@ -131,13 +131,13 @@
                   Blog</NuxtLink
                 >
               </li>
-              <li>
+              <!-- <li>
                 <NuxtLink
                   to="/faq"
                   class="footer__inner__top__links__column__link"
                   >FAQ</NuxtLink
                 >
-              </li>
+              </li> -->
               <li>
                 <NuxtLink
                   to="https://knowledge-base.prokip.com"

@@ -2,7 +2,7 @@
   <div class="prokip-solutions">
     <div class="prokip-solutions__inner">
       <div class="prokip-solutions__inner__title">
-        <h2>Run your business profitably and grow with ease</h2>
+        <h2>All you need to run your business profitably</h2>
 
         <div class="tab-container">
           <button

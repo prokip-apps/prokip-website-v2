@@ -3,11 +3,11 @@
     <div class="crm-ads__inner">
       <div class="crm-ads__box">
         <div class="crm-ads__box__content">
-          <h3>Elevate Your Business with <span>Prokip Desktop </span></h3>
-          <p>
-            Experience seamless offline selling with unmatched efficiency and
-            ease
-          </p>
+          <h3>
+            Never miss a sale with
+            <span style="display: inline">Prokip Desktop </span>
+          </h3>
+          <p>Enjoy unlimited sales with zero downtime attending to customers</p>
           <TheButton
             link="https://proweb-5.s3.amazonaws.com/Prokip+Setup+0.2.7.exe"
             title="Download Now"

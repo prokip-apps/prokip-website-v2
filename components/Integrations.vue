@@ -2,7 +2,7 @@
   <div class="integrations">
     <div class="integrations__inner">
       <div class="integrations__inner__title">
-        <SectionTitle title="Integrations" />
+        <SectionTitle title="Coming Soon" />
         <h2>Connect Prokip with your favourite platforms</h2>
         <p>
           Prokip seamlessly integrates with popular e-commerce and marketing
@@ -11,6 +11,10 @@
       </div>
 
       <div class="integrations__inner__logos">
+        <div class="integrations__inner__logos__item">
+          <img src="/img/opay-logo.png" alt="opay logo" />
+        </div>
+
         <div class="integrations__inner__logos__item">
           <img src="/img/facebook-ads.png" alt="Facebook Ads" />
         </div>
@@ -38,7 +42,7 @@
 
       <div class="integrations__inner__cta">
         <TheButton
-          title="TRY IT NOW!"
+          title="Get Started for Free"
           link="https://app.prokip.co/register"
           classes="hero-btn"
         />

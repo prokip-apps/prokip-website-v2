@@ -3,10 +3,10 @@
     <div class="crm-ads__inner">
       <div class="crm-ads__box">
         <div class="crm-ads__box__content">
-          <h3>Get Started with a <span>Special Rate!</span></h3>
+          <h3>Try Prokip for 30 Days with <span> No Commitement </span></h3>
           <p>
-            Register today for a reduced rate on your first payment and see how
-            Prokip can streamline your operations and boost efficiency
+            Sign up for free to see how Prokip can help streamline and grow your
+            business.
           </p>
           <TheButton
             link="https://app.prokip.co/register"

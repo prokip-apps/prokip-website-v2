@@ -52,10 +52,7 @@
               </div>
             </nuxt-link>
 
-            <nuxt-link
-              to="/careers/job-details"
-              class="careers-oppurtunities__jobs-item"
-            >
+            <nuxt-link to="" class="careers-oppurtunities__jobs-item">
               <div class="job__title">
                 <h4>Node.js Backend Developer</h4>
               </div>
@@ -66,10 +63,7 @@
               </div>
             </nuxt-link>
 
-            <nuxt-link
-              to="/careers/job-details"
-              class="careers-oppurtunities__jobs-item"
-            >
+            <nuxt-link to="" class="careers-oppurtunities__jobs-item">
               <div class="job__title">
                 <h4>Next.js Frontend Developer</h4>
               </div>

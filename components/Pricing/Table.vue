@@ -20,8 +20,15 @@
             to="https://app.prokip.co/register"
             class="pricing-select-button"
           >
-            Select</nuxt-link
+            Get Started Now
+          </nuxt-link>
+
+          <nuxt-link
+            to="https://app.prokip.co/register"
+            class="pricing-select-button-sec"
           >
+            Start 30 Days Free Trial
+          </nuxt-link>
         </div>
 
         <div class="pricing-table__header-item most-popular">
@@ -41,8 +48,14 @@
             to="https://app.prokip.co/register"
             class="pricing-select-button"
           >
-            Select</nuxt-link
+            Get Started Now
+          </nuxt-link>
+          <nuxt-link
+            to="https://app.prokip.co/register"
+            class="pricing-select-button-sec"
           >
+            Start 30 Days Free Trial
+          </nuxt-link>
         </div>
 
         <div class="pricing-table__header-item">
@@ -61,8 +74,14 @@
             to="https://app.prokip.co/register"
             class="pricing-select-button"
           >
-            Select</nuxt-link
+            Get Started Now
+          </nuxt-link>
+          <nuxt-link
+            to="https://app.prokip.co/register"
+            class="pricing-select-button-sec"
           >
+            Start 30 Days Free Trial
+          </nuxt-link>
         </div>
       </div>
       <div class="pricing-table__features">
@@ -200,7 +219,7 @@
 
         <div class="pricing-table__features__row">
           <div class="pricing-table__features__row-item title">
-            Advanced accounting
+            Core Accounting
           </div>
           <div class="pricing-table__features__row-item">—</div>
           <div class="pricing-table__features__row-item">

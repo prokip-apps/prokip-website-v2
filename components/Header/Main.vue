@@ -9,7 +9,7 @@
 
           <div class="header__nav__right">
             <div class="header__nav__link">
-              <HeaderDropDown title="Products" :items="products" />
+              <HeaderDropDown title="Solutions" :items="products" />
 
               <nuxt-link to="/pricing" class="header__nav__link--item"
                 >Pricing</nuxt-link
@@ -125,7 +125,7 @@ const platform = [
     text: "lorem ipsum dolor mans knshja skwa",
   },
   {
-    title: "Mobile App",
+    title: "Mobile App (coming soon)",
     link: "/",
     text: "lorem ipsum dolor mans knshja skwa",
   },
